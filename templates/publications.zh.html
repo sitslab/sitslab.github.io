@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SITS Lab 学术成果：刘代波老师与合作者论文目录，按发表年份整理。"><meta name="theme-color" content="#123e41">
+  <title>学术成果 · {{name}} — {{name_zh}}</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg"><link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳转至论文目录</a>
+  {{header}}
+  <main id="main" class="container publication-page">
+    <section class="publication-intro"><span class="eyebrow">SITS LAB / PUBLICATIONS</span><h1>学术成果</h1><p>刘代波老师与合作者的论文目录</p><p class="catalog-note">已整理 {{publication_count}} 篇，覆盖 {{year_range}}。条目来自导师公开论文列表与论文书目信息，包含加入湖南大学前及实验室建立前的研究成果。不同版本的会议论文与期刊论文分别列出。</p><div class="catalog-links">{{profile_link}}</div></section>
+    <nav class="year-nav" aria-label="按发表年份跳转">{{year_nav}}</nav>
+    <div class="archive-list">{{publication_archive}}</div>
+    <p class="catalog-footnote">年份优先采用正式出版年；在线发表、接收或会议展示时间不同的条目附有说明。此目录为当前整理范围，不宣称穷尽所有成果。</p>
+  </main>
+  {{footer}}
+</body>
+</html>

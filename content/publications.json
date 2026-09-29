@@ -1,0 +1,2307 @@
+[
+  {
+    "year": "2026",
+    "venue": "IEEE TMC",
+    "title": "Decoding Air Friction Rhythms: Enabling User Identification With Out-Ear Microphones in COTS Earphones",
+    "authors": "Daibo Liu, Hang Lu, Xiaomeng Qi, Huigui Rong, Haowen Chen, Hongbo Jiang",
+    "authors_list": [
+      "Daibo Liu",
+      "Hang Lu",
+      "Xiaomeng Qi",
+      "Huigui Rong",
+      "Haowen Chen",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2025.3626359",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2025.3626359",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2025.3626359"
+    ],
+    "year_note": "2025 年接收/在线发表；按正式卷期 IEEE TMC 25(4) 归入 2026。",
+    "featured": true,
+    "doi": "10.1109/tmc.2025.3626359",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "25",
+    "issue": "4",
+    "pages": "4648-4663"
+  },
+  {
+    "year": "2026",
+    "venue": "CWSN 2025 / CCIS",
+    "title": "AdventureAgent: Proactive Cognitively-Enhanced LLM Agent for Trekking Safety",
+    "authors": "Shengxu Huo, Huigui Rong, Daibo Liu, Shijiang Yi, Min Wang, Zhipan Li",
+    "authors_list": [
+      "Shengxu Huo",
+      "Huigui Rong",
+      "Daibo Liu",
+      "Shijiang Yi",
+      "Min Wang",
+      "Zhipan Li"
+    ],
+    "url": "https://doi.org/10.1007/978-981-95-9615-7_36",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1007/978-981-95-9615-7_36",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1007/978-981-95-9615-7_36"
+    ],
+    "year_note": "CWSN 2025 会议论文；Springer 论文集于 2026-07-02 出版，按出版年归入 2026。",
+    "featured": false,
+    "doi": "10.1007/978-981-95-9615-7_36",
+    "type": "book-chapter",
+    "publication": "Communications in Computer and Information Science",
+    "volume": "",
+    "issue": "",
+    "pages": "548-562"
+  },
+  {
+    "year": "2026",
+    "venue": "Tsinghua Science and Technology",
+    "title": "Cross-App Keystroke Inference through Malicious In-App Training on Keystroke-Induced Vibrations",
+    "authors": "Ruyi Wei, Junhua Wu, Huigui Rong, Daibo Liu",
+    "authors_list": [
+      "Ruyi Wei",
+      "Junhua Wu",
+      "Huigui Rong",
+      "Daibo Liu"
+    ],
+    "url": "https://www.sciopen.com/article/10.26599/TST.2026.9010051",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://www.sciopen.com/article/10.26599/TST.2026.9010051",
+    "source_urls": [
+      "https://www.sciopen.com/article/10.26599/TST.2026.9010051"
+    ],
+    "year_note": "2026-05-19 在线发表；出版商标注 Just Accepted，尚未分配卷期页码。",
+    "featured": false,
+    "doi": "10.26599/TST.2026.9010051",
+    "type": "journal-article",
+    "publication": "Tsinghua Science and Technology",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  {
+    "year": "2025",
+    "venue": "ACM IMWUT / UbiComp",
+    "title": "Amulet: Integrating Sensitive Information Access with Identity Authentication on Mobile Devices",
+    "authors": "Daibo Liu, Yunpeng Feng, Baixing Liu, Taiyuan Zhang, Haowen Chen, Minjie Cai",
+    "authors_list": [
+      "Daibo Liu",
+      "Yunpeng Feng",
+      "Baixing Liu",
+      "Taiyuan Zhang",
+      "Haowen Chen",
+      "Minjie Cai"
+    ],
+    "url": "https://doi.org/10.1145/3749546",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3749546",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3749546"
+    ],
+    "year_note": "",
+    "featured": true,
+    "doi": "10.1145/3749546",
+    "type": "journal-article",
+    "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "9",
+    "issue": "3",
+    "pages": "1-29"
+  },
+  {
+    "year": "2025",
+    "venue": "ACM IMWUT / UbiComp",
+    "title": "KeyPrint: Practical Black-box Keystroke Inference Attacks to Mobile Devices",
+    "authors": "Yunpeng Feng, Daibo Liu, Wenqiang Jin, Liangyi Gong",
+    "authors_list": [
+      "Yunpeng Feng",
+      "Daibo Liu",
+      "Wenqiang Jin",
+      "Liangyi Gong"
+    ],
+    "url": "https://doi.org/10.1145/3729493",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3729493",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3729493"
+    ],
+    "year_note": "",
+    "featured": true,
+    "doi": "10.1145/3729493",
+    "type": "journal-article",
+    "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "9",
+    "issue": "2",
+    "pages": "1-30"
+  },
+  {
+    "year": "2025",
+    "venue": "ACM Transactions on Internet of Things",
+    "title": "Crash Scene to Resolution: LLM-based Agents Driven for Efficient Traffic Accident Handling",
+    "authors": "Shengxu Huo, Huigui Rong, Yuxuan Zhou, Hongjia Zuo, Daibo Liu, Zhipan Li, Min Wang, Hongbo Jiang",
+    "authors_list": [
+      "Shengxu Huo",
+      "Huigui Rong",
+      "Yuxuan Zhou",
+      "Hongjia Zuo",
+      "Daibo Liu",
+      "Zhipan Li",
+      "Min Wang",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1145/3766899",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3766899",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3766899"
+    ],
+    "year_note": "ACM TIOT 期刊论文；入选 MobiCom 2025 展示，不作为 MobiCom 主会论文。",
+    "featured": false,
+    "doi": "10.1145/3766899",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Internet of Things",
+    "volume": "6",
+    "issue": "4",
+    "pages": "1-32"
+  },
+  {
+    "year": "2025",
+    "venue": "IEEE TMC",
+    "title": "Echoes of Fingertip: Unveiling POS Terminal Passwords Through Wi-Fi Beamforming Feedback",
+    "authors": "Siyu Chen, Hongbo Jiang, Jingyang Hu, Tianyue Zheng, Mengyuan Wang, Zhu Xiao, Daibo Liu, Jun Luo",
+    "authors_list": [
+      "Siyu Chen",
+      "Hongbo Jiang",
+      "Jingyang Hu",
+      "Tianyue Zheng",
+      "Mengyuan Wang",
+      "Zhu Xiao",
+      "Daibo Liu",
+      "Jun Luo"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2024.3465564",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2024.3465564",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2024.3465564"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2024.3465564",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "24",
+    "issue": "2",
+    "pages": "662-676"
+  },
+  {
+    "year": "2025",
+    "venue": "ICASSP",
+    "title": "Egocentric Speaker Diarization with Vision-Guided Clustering and Adaptive Speech Re-detection",
+    "authors": "He Huang, Haoyuan Yu, Daibo Liu, Haowen Chen, Minjie Cai",
+    "authors_list": [
+      "He Huang",
+      "Haoyuan Yu",
+      "Daibo Liu",
+      "Haowen Chen",
+      "Minjie Cai"
+    ],
+    "url": "https://doi.org/10.1109/icassp49660.2025.10889699",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icassp49660.2025.10889699",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icassp49660.2025.10889699"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icassp49660.2025.10889699",
+    "type": "proceedings-article",
+    "publication": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5"
+  },
+  {
+    "year": "2024",
+    "venue": "NDSS",
+    "title": "Eavesdropping on Black-box Mobile Devices via Audio Amplifier's EMR",
+    "authors": "Huiling Chen, Wenqiang Jin, Yupeng Hu, Zhenyu Ning, Kenli Li, Zheng Qin, Mingxing Duan, Yong Xie, Daibo Liu, Ming Li",
+    "authors_list": [
+      "Huiling Chen",
+      "Wenqiang Jin",
+      "Yupeng Hu",
+      "Zhenyu Ning",
+      "Kenli Li",
+      "Zheng Qin",
+      "Mingxing Duan",
+      "Yong Xie",
+      "Daibo Liu",
+      "Ming Li"
+    ],
+    "url": "https://doi.org/10.14722/ndss.2024.23240",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.14722/ndss.2024.23240",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.14722/ndss.2024.23240"
+    ],
+    "year_note": "",
+    "featured": true,
+    "doi": "10.14722/ndss.2024.23240",
+    "type": "proceedings-article",
+    "publication": "Proceedings 2024 Network and Distributed System Security Symposium",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  {
+    "year": "2024",
+    "venue": "USENIX Security",
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection and Positioning with Inbuilt Memory EM Radiation",
+    "authors": "Qibo Zhang, Daibo Liu, Xinyu Zhang, Zhichao Cao, Fanzi Zeng, Hongbo Jiang, Wenqiang Jin",
+    "authors_list": [
+      "Qibo Zhang",
+      "Daibo Liu",
+      "Xinyu Zhang",
+      "Zhichao Cao",
+      "Fanzi Zeng",
+      "Hongbo Jiang",
+      "Wenqiang Jin"
+    ],
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "link_label": "论文与报告",
+    "code_url": "",
+    "source_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "source_urls": [
+      "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo"
+    ],
+    "year_note": "",
+    "featured": true,
+    "doi": "",
+    "type": "proceedings-article",
+    "publication": "USENIX Security",
+    "volume": "",
+    "issue": "",
+    "pages": "109–126"
+  },
+  {
+    "year": "2024",
+    "venue": "ACM CCS",
+    "title": "GPSBuster: Busting out Hidden GPS Trackers via MSoC Electromagnetic Radiations",
+    "authors": "Yue Li, Zhenxiong Yan, Wenqiang Jin, Zhenyu Ning, Daibo Liu, Zheng Qin, Yu Liu, Huadi Zhu, Ming Li",
+    "authors_list": [
+      "Yue Li",
+      "Zhenxiong Yan",
+      "Wenqiang Jin",
+      "Zhenyu Ning",
+      "Daibo Liu",
+      "Zheng Qin",
+      "Yu Liu",
+      "Huadi Zhu",
+      "Ming Li"
+    ],
+    "url": "https://doi.org/10.1145/3658644.3690362",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3658644.3690362",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3658644.3690362"
+    ],
+    "year_note": "",
+    "featured": true,
+    "doi": "10.1145/3658644.3690362",
+    "type": "proceedings-article",
+    "publication": "Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security",
+    "volume": "",
+    "issue": "",
+    "pages": "3302-3316"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE MSN",
+    "title": "A Measurement Study of DNS Query Protocols in Mobile Networks: Efficiency, Reliability and Choice",
+    "authors": "Liangyi Gong, Sai Wang, Lanqi Yang, Chun Long, Xiaochen Fan, Daibo Liu, Changhua Pei",
+    "authors_list": [
+      "Liangyi Gong",
+      "Sai Wang",
+      "Lanqi Yang",
+      "Chun Long",
+      "Xiaochen Fan",
+      "Daibo Liu",
+      "Changhua Pei"
+    ],
+    "url": "https://doi.org/10.1109/msn63567.2024.00017",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/msn63567.2024.00017",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/msn63567.2024.00017"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/msn63567.2024.00017",
+    "type": "proceedings-article",
+    "publication": "2024 20th International Conference on Mobility, Sensing and Networking (MSN)",
+    "volume": "",
+    "issue": "",
+    "pages": "40-47"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "A Wireless Self-Service System for Library Using Commodity RFID Devices",
+    "authors": "Jingyang Hu, Hongbo Jiang, Daibo Liu, Zhu Xiao, Schahram Dustdar, Jiangchuan Liu",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Zhu Xiao",
+      "Schahram Dustdar",
+      "Jiangchuan Liu"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2023.3301462",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2023.3301462",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2023.3301462"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2023.3301462",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "11",
+    "issue": "3",
+    "pages": "4998-5010"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "Combining IMU With Acoustics for Head Motion Tracking Leveraging Wireless Earphone",
+    "authors": "Jingyang Hu, Hongbo Jiang, Daibo Liu, Zhu Xiao, Qibo Zhang, Jiangchuan Liu, Schahram Dustdar",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Zhu Xiao",
+      "Qibo Zhang",
+      "Jiangchuan Liu",
+      "Schahram Dustdar"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2023.3325826",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2023.3325826",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2023.3325826"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2023.3325826",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "6",
+    "pages": "6835-6847"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "DEyeAuth: A Secure Smartphone User Authentication System Integrating Eyelid Patterns With Eye Gestures",
+    "authors": "Ling Kuang, Fanzi Zeng, Hongbo Jiang, Daibo Liu, Jie Li, Hui Zheng, Qibo Zhang, Geyong Min",
+    "authors_list": [
+      "Ling Kuang",
+      "Fanzi Zeng",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Jie Li",
+      "Hui Zheng",
+      "Qibo Zhang",
+      "Geyong Min"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2024.3407780",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2024.3407780",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2024.3407780"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2024.3407780",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "11",
+    "issue": "18",
+    "pages": "30069-30083"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TITS",
+    "title": "E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation",
+    "authors": "Qibo Zhang, Fanzi Zeng, Jingyang Hu, Daibo Liu, Ling Kuang, Zhu Xiao, Hongbo Jiang",
+    "authors_list": [
+      "Qibo Zhang",
+      "Fanzi Zeng",
+      "Jingyang Hu",
+      "Daibo Liu",
+      "Ling Kuang",
+      "Zhu Xiao",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1109/tits.2024.3432977",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tits.2024.3432977",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tits.2024.3432977"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tits.2024.3432977",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Intelligent Transportation Systems",
+    "volume": "25",
+    "issue": "11",
+    "pages": "18978-18991"
+  },
+  {
+    "year": "2024",
+    "venue": "ACM TOSN",
+    "title": "EM-Rhythm: An Authentication Method for Heterogeneous IoT Devices",
+    "authors": "Zejun Xu, Wenqiang Jin, Changwei Yao, Xinyi Liu, Shuang Ma, Yu Liu, Zheng Qin, Iman Vakilinia, Daibo Liu",
+    "authors_list": [
+      "Zejun Xu",
+      "Wenqiang Jin",
+      "Changwei Yao",
+      "Xinyi Liu",
+      "Shuang Ma",
+      "Yu Liu",
+      "Zheng Qin",
+      "Iman Vakilinia",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1145/3700441",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3700441",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3700441"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3700441",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "20",
+    "issue": "6",
+    "pages": "1-21"
+  },
+  {
+    "year": "2024",
+    "venue": "ACM TOSN",
+    "title": "Energy and QoE Optimization for Mobile Video Streaming with Adaptive Brightness Scaling",
+    "authors": "Daibo Liu, Chao Qian, Huigui Rong, Siwang Zhou, Chaocan Xiang, Hongbo Jiang",
+    "authors_list": [
+      "Daibo Liu",
+      "Chao Qian",
+      "Huigui Rong",
+      "Siwang Zhou",
+      "Chaocan Xiang",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1145/3670999",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3670999",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3670999"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3670999",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "20",
+    "issue": "4",
+    "pages": "1-24"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "HandKey: Knocking-Triggered Robust Vibration Signature for Keyless Unlocking",
+    "authors": "Hangcheng Cao, Daibo Liu, Hongbo Jiang, Chao Cai, Tianyue Zheng, John C. S. Lui, Jun Luo",
+    "authors_list": [
+      "Hangcheng Cao",
+      "Daibo Liu",
+      "Hongbo Jiang",
+      "Chao Cai",
+      "Tianyue Zheng",
+      "John C. S. Lui",
+      "Jun Luo"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2022.3216868",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2022.3216868",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2022.3216868"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2022.3216868",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "1",
+    "pages": "520-534"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "LipAuth: Securing Smartphone User Authentication With Lip Motion Patterns",
+    "authors": "Ling Kuang, Fanzi Zeng, Daibo Liu, Hangcheng Cao, Hongbo Jiang, Jiangchuan Liu",
+    "authors_list": [
+      "Ling Kuang",
+      "Fanzi Zeng",
+      "Daibo Liu",
+      "Hangcheng Cao",
+      "Hongbo Jiang",
+      "Jiangchuan Liu"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2023.3289573",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2023.3289573",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2023.3289573"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2023.3289573",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "11",
+    "issue": "1",
+    "pages": "1096-1109"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "LSTAloc: A Driver-Oriented Incentive Mechanism for Mobility-on-Demand Vehicular Crowdsensing Market",
+    "authors": "Chaocan Xiang, Wenhui Cheng, Chi Lin, Xinglin Zhang, Daibo Liu, Xiao Zheng, Zhenhua Li",
+    "authors_list": [
+      "Chaocan Xiang",
+      "Wenhui Cheng",
+      "Chi Lin",
+      "Xinglin Zhang",
+      "Daibo Liu",
+      "Xiao Zheng",
+      "Zhenhua Li"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2023.3271671",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2023.3271671",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2023.3271671"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2023.3271671",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "4",
+    "pages": "3106-3122"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices",
+    "authors": "Hangcheng Cao, Daibo Liu, Hongbo Jiang, Jun Luo",
+    "authors_list": [
+      "Hangcheng Cao",
+      "Daibo Liu",
+      "Hongbo Jiang",
+      "Jun Luo"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2022.3216851",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2022.3216851",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2022.3216851"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2022.3216851",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "1",
+    "pages": "597-611"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "Real-Time Contactless Eye Blink Detection Using UWB Radar",
+    "authors": "Jingyang Hu, Hongbo Jiang, Daibo Liu, Zhu Xiao, Qibo Zhang, Geyong Min, Jiangchuan Liu",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Zhu Xiao",
+      "Qibo Zhang",
+      "Geyong Min",
+      "Jiangchuan Liu"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2023.3323280",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2023.3323280",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2023.3323280"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2023.3323280",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "6",
+    "pages": "6606-6619"
+  },
+  {
+    "year": "2024",
+    "venue": "INFOCOM",
+    "title": "Silent Thief: Password Eavesdropping Leveraging Wi-Fi Beamforming Feedback from POS Terminal",
+    "authors": "Siyu Chen, Hongbo Jiang, Jingyang Hu, Zhu Xiao, Daibo Liu",
+    "authors_list": [
+      "Siyu Chen",
+      "Hongbo Jiang",
+      "Jingyang Hu",
+      "Zhu Xiao",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/infocom52122.2024.10621321",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/infocom52122.2024.10621321",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/infocom52122.2024.10621321"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/infocom52122.2024.10621321",
+    "type": "proceedings-article",
+    "publication": "IEEE INFOCOM 2024 - IEEE Conference on Computer Communications",
+    "volume": "",
+    "issue": "",
+    "pages": "321-330"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "TSBG: A Two-Stage Stackelberg Game Algorithm for QoE-Awareness Video Streaming Transmission",
+    "authors": "Shuzhen Xiang, Huigui Rong, Jianguo Chen, Daibo Liu, Hongbo Jiang",
+    "authors_list": [
+      "Shuzhen Xiang",
+      "Huigui Rong",
+      "Jianguo Chen",
+      "Daibo Liu",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2024.3412860",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2024.3412860",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2024.3412860"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2024.3412860",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "12",
+    "pages": "12558-12571"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE TMC",
+    "title": "Two-Factor Authentication for Keyless Entry System via Finger-Induced Vibrations",
+    "authors": "Hongbo Jiang, Panyi Ji, Taiyuan Zhang, Hangcheng Cao, Daibo Liu",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Panyi Ji",
+      "Taiyuan Zhang",
+      "Hangcheng Cao",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2024.3368331",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2024.3368331",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2024.3368331"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2024.3368331",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "23",
+    "issue": "10",
+    "pages": "9708-9720"
+  },
+  {
+    "year": "2024",
+    "venue": "ACM TOSN",
+    "title": "Who Should We Blame for Android App Crashes? An In-Depth Study at Scale and Practical Resolutions",
+    "authors": "Liangyi Gong, Hao Lin, Daibo Liu, Lanqi Yang, Hongyi Wang, Jiaxing Qiu, Zhenhua Li, Feng Qian",
+    "authors_list": [
+      "Liangyi Gong",
+      "Hao Lin",
+      "Daibo Liu",
+      "Lanqi Yang",
+      "Hongyi Wang",
+      "Jiaxing Qiu",
+      "Zhenhua Li",
+      "Feng Qian"
+    ],
+    "url": "https://doi.org/10.1145/3649895",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3649895",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3649895"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3649895",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "20",
+    "issue": "3",
+    "pages": "1-24"
+  },
+  {
+    "year": "2024",
+    "venue": "IEEE JSAC",
+    "title": "WiShield: Privacy Against Wi-Fi Human Tracking",
+    "authors": "Jingyang Hu, Hongbo Jiang, Siyu Chen, Qibo Zhang, Zhu Xiao, Daibo Liu, Jiangchuan Liu, Bo Li",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Siyu Chen",
+      "Qibo Zhang",
+      "Zhu Xiao",
+      "Daibo Liu",
+      "Jiangchuan Liu",
+      "Bo Li"
+    ],
+    "url": "https://doi.org/10.1109/jsac.2024.3414597",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jsac.2024.3414597",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jsac.2024.3414597"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jsac.2024.3414597",
+    "type": "journal-article",
+    "publication": "IEEE Journal on Selected Areas in Communications",
+    "volume": "42",
+    "issue": "10",
+    "pages": "2970-2984"
+  },
+  {
+    "year": "2023",
+    "venue": "ACM TOSN",
+    "title": "Concurrent Low-power Listening: A New Design Paradigm for Duty-cycling Communication",
+    "authors": "Daibo Liu, Zhichao Cao, Hongbo Jiang, Siwang Zhou, Zhu Xiao, Fanzi Zeng",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Hongbo Jiang",
+      "Siwang Zhou",
+      "Zhu Xiao",
+      "Fanzi Zeng"
+    ],
+    "url": "https://doi.org/10.1145/3517013",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3517013",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3517013"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3517013",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "19",
+    "issue": "1",
+    "pages": "1-24"
+  },
+  {
+    "year": "2023",
+    "venue": "IEEE ICDCS",
+    "title": "EarSonar: An Acoustic Signal-Based Middle-Ear Effusion Detection Using Earphones",
+    "authors": "Jingyang Hu, Hongbo Jiang, Daibo Liu, Zhu Xiao, Hangcheng Cao, Yue Qi, Schahram Dustdar, Jiangchuan Liu",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Zhu Xiao",
+      "Hangcheng Cao",
+      "Yue Qi",
+      "Schahram Dustdar",
+      "Jiangchuan Liu"
+    ],
+    "url": "https://doi.org/10.1109/icdcs57875.2023.00082",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icdcs57875.2023.00082",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icdcs57875.2023.00082"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icdcs57875.2023.00082",
+    "type": "proceedings-article",
+    "publication": "2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)",
+    "volume": "",
+    "issue": "",
+    "pages": "225-235"
+  },
+  {
+    "year": "2023",
+    "venue": "ACM TOSN",
+    "title": "LIPAuth: Hand-dependent Light Intensity Patterns for Resilient User Authentication",
+    "authors": "Hangcheng Cao, Daibo Liu, Hongbo Jiang, Ruize Wang, Zhe Chen, Jie Xiong",
+    "authors_list": [
+      "Hangcheng Cao",
+      "Daibo Liu",
+      "Hongbo Jiang",
+      "Ruize Wang",
+      "Zhe Chen",
+      "Jie Xiong"
+    ],
+    "url": "https://doi.org/10.1145/3572909",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3572909",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3572909"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3572909",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "19",
+    "issue": "3",
+    "pages": "1-29"
+  },
+  {
+    "year": "2023",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "LiveProbe: Exploring Continuous Voice Liveness Detection via Phonemic Energy Response Patterns",
+    "authors": "Hangcheng Cao, Hongbo Jiang, Daibo Liu, Ruize Wang, Geyong Min, Jiangchuan Liu, Schahram Dustdar, John C. S. Lui",
+    "authors_list": [
+      "Hangcheng Cao",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Ruize Wang",
+      "Geyong Min",
+      "Jiangchuan Liu",
+      "Schahram Dustdar",
+      "John C. S. Lui"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2022.3228819",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2022.3228819",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2022.3228819"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2022.3228819",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "10",
+    "issue": "8",
+    "pages": "7215-7228"
+  },
+  {
+    "year": "2023",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "PupilHeart: Heart Rate Variability Monitoring via Pupillary Fluctuations on Mobile Devices",
+    "authors": "Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, Taiyuan Zhang, Zhu Xiao, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo",
+    "authors_list": [
+      "Xiangyu Shen",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Kehua Yang",
+      "Feiyang Deng",
+      "Taiyuan Zhang",
+      "Zhu Xiao",
+      "John C. S. Lui",
+      "Jiangchuan Liu",
+      "Schahram Dustdar",
+      "Jun Luo"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2023.3277555",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2023.3277555",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2023.3277555"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2023.3277555",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "10",
+    "issue": "20",
+    "pages": "18042-18053"
+  },
+  {
+    "year": "2022",
+    "venue": "IEEE ICDCS",
+    "title": "BlinkRadar: Non-Intrusive Driver Eye-Blink Detection with UWB Radar",
+    "authors": "Jingyang Hu, Hongbo Jiang, Daibo Liu, Zhu Xiao, Schahram Dustdar, Jiangchuan Liu, Geyong Min",
+    "authors_list": [
+      "Jingyang Hu",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Zhu Xiao",
+      "Schahram Dustdar",
+      "Jiangchuan Liu",
+      "Geyong Min"
+    ],
+    "url": "https://doi.org/10.1109/icdcs54860.2022.00104",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icdcs54860.2022.00104",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icdcs54860.2022.00104"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icdcs54860.2022.00104",
+    "type": "proceedings-article",
+    "publication": "2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)",
+    "volume": "",
+    "issue": "",
+    "pages": "1040-1050"
+  },
+  {
+    "year": "2022",
+    "venue": "ACM TOSN",
+    "title": "Compressive Sensing Based Distributed Data Storage for Mobile Crowdsensing",
+    "authors": "Siwang Zhou, Yi Lian, Daibo Liu, Hongbo Jiang, Yonghe Liu, Keqin Li",
+    "authors_list": [
+      "Siwang Zhou",
+      "Yi Lian",
+      "Daibo Liu",
+      "Hongbo Jiang",
+      "Yonghe Liu",
+      "Keqin Li"
+    ],
+    "url": "https://doi.org/10.1145/3498321",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3498321",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3498321"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3498321",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "18",
+    "issue": "2",
+    "pages": "1-21"
+  },
+  {
+    "year": "2022",
+    "venue": "IEEE IWQoS",
+    "title": "Harmonizing Energy Efficiency and QoE for Brightness Scaling-based Mobile Video Streaming",
+    "authors": "Chao Qian, Daibo Liu, Hongbo Jiang",
+    "authors_list": [
+      "Chao Qian",
+      "Daibo Liu",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1109/iwqos54832.2022.9812899",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/iwqos54832.2022.9812899",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/iwqos54832.2022.9812899"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/iwqos54832.2022.9812899",
+    "type": "proceedings-article",
+    "publication": "2022 IEEE/ACM 30th International Symposium on Quality of Service (IWQoS)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-10"
+  },
+  {
+    "year": "2022",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "PupilRec: Leveraging Pupil Morphology for Recommending on Smartphones",
+    "authors": "Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo",
+    "authors_list": [
+      "Xiangyu Shen",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Kehua Yang",
+      "Feiyang Deng",
+      "John C. S. Lui",
+      "Jiangchuan Liu",
+      "Schahram Dustdar",
+      "Jun Luo"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2022.3181607",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2022.3181607",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2022.3181607"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2022.3181607",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "9",
+    "issue": "17",
+    "pages": "15538-15553"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE/ACM TON",
+    "title": "Chase++: Fountain-Enabled Fast Flooding in Asynchronous Duty Cycle Networks",
+    "authors": "Zhichao Cao, Jiliang Wang, Daibo Liu, Qiang Ma, Xin Miao, Xufei Mao",
+    "authors_list": [
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Daibo Liu",
+      "Qiang Ma",
+      "Xin Miao",
+      "Xufei Mao"
+    ],
+    "url": "https://doi.org/10.1109/tnet.2020.3034251",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnet.2020.3034251",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnet.2020.3034251",
+      "https://sites.google.com/site/dbliuuestc/publications"
+    ],
+    "year_note": "Crossref 保留 2020 年 Early Access 元数据；按导师列出的正式卷期 29(1): 410–422 (2021) 归年。",
+    "featured": false,
+    "doi": "10.1109/tnet.2020.3034251",
+    "type": "journal-article",
+    "publication": "IEEE/ACM Transactions on Networking",
+    "volume": "29",
+    "issue": "1",
+    "pages": "410-422"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "CTrack: Acoustic Device-Free and Collaborative Hands Motion Tracking on Smartphones",
+    "authors": "Hongbo Jiang, Minglin Wang, Daibo Liu, Siwang Zhou",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Minglin Wang",
+      "Daibo Liu",
+      "Siwang Zhou"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2021.3071287",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2021.3071287",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2021.3071287"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2021.3071287",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "8",
+    "issue": "19",
+    "pages": "14658-14671"
+  },
+  {
+    "year": "2021",
+    "venue": "ACM IMWUT / UbiComp",
+    "title": "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar",
+    "authors": "Hongbo Jiang, Jingyang Hu, Daibo Liu, Jie Xiong, Mingjie Cai",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Jingyang Hu",
+      "Daibo Liu",
+      "Jie Xiong",
+      "Mingjie Cai"
+    ],
+    "url": "https://doi.org/10.1145/3478084",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3478084",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3478084"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3478084",
+    "type": "journal-article",
+    "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "5",
+    "issue": "3",
+    "pages": "1-22"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE ICDCS",
+    "title": "Evidence in Hand: Passive Vibration Response-based Continuous User Authentication",
+    "authors": "Hangcheng Cao, Hongbo Jiang, Daibo Liu, Jie Xiong",
+    "authors_list": [
+      "Hangcheng Cao",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Jie Xiong"
+    ],
+    "url": "https://doi.org/10.1109/icdcs51616.2021.00101",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icdcs51616.2021.00101",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icdcs51616.2021.00101"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icdcs51616.2021.00101",
+    "type": "proceedings-article",
+    "publication": "2021 IEEE 41st International Conference on Distributed Computing Systems (ICDCS)",
+    "volume": "",
+    "issue": "",
+    "pages": "1020-1030"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE TMC",
+    "title": "Fly-Navi: A Novel Indoor Navigation System With On-the-Fly Map Generation",
+    "authors": "Hongbo Jiang, Wenping Liu, Guoyin Jiang, Yufu Jia, Xingjun Liu, Zhicheng Lui, Xiaofei Liao, Jing Xing, Daibo Liu",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Wenping Liu",
+      "Guoyin Jiang",
+      "Yufu Jia",
+      "Xingjun Liu",
+      "Zhicheng Lui",
+      "Xiaofei Liao",
+      "Jing Xing",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2020.2990446",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2020.2990446",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2020.2990446"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2020.2990446",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "20",
+    "issue": "9",
+    "pages": "2820-2834"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE Transactions on Network Science and Engineering",
+    "title": "Garbage In, Garbage Out: Poisoning Attacks Disguised With Plausible Mobility in Data Aggregation",
+    "authors": "Ping Zhao, Hongbo Jiang, Jie Li, Zhu Xiao, Daibo Liu, Ju Ren, Deke Guo",
+    "authors_list": [
+      "Ping Zhao",
+      "Hongbo Jiang",
+      "Jie Li",
+      "Zhu Xiao",
+      "Daibo Liu",
+      "Ju Ren",
+      "Deke Guo"
+    ],
+    "url": "https://doi.org/10.1109/tnse.2021.3103919",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnse.2021.3103919",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnse.2021.3103919"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tnse.2021.3103919",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Network Science and Engineering",
+    "volume": "8",
+    "issue": "3",
+    "pages": "2679-2693"
+  },
+  {
+    "year": "2021",
+    "venue": "IEEE ICDCS",
+    "title": "PupilMeter: Modeling User Preference with Time-Series Features of Pupillary Response",
+    "authors": "Hongbo Jiang, Xiangyu Shen, Daibo Liu",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Xiangyu Shen",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/icdcs51616.2021.00102",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icdcs51616.2021.00102",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icdcs51616.2021.00102"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icdcs51616.2021.00102",
+    "type": "proceedings-article",
+    "publication": "2021 IEEE 41st International Conference on Distributed Computing Systems (ICDCS)",
+    "volume": "",
+    "issue": "",
+    "pages": "1031-1041"
+  },
+  {
+    "year": "2021",
+    "venue": "ACM IMWUT / UbiComp",
+    "title": "Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer",
+    "authors": "Weigao Su, Daibo Liu, Taiyuan Zhang, Hongbo Jiang",
+    "authors_list": [
+      "Weigao Su",
+      "Daibo Liu",
+      "Taiyuan Zhang",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1145/3494969",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3494969",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3494969"
+    ],
+    "year_note": "IMWUT 5(4) 于 2021 年发表，在 UbiComp 2022 展示；按期刊发表年归入 2021。",
+    "featured": false,
+    "doi": "10.1145/3494969",
+    "type": "journal-article",
+    "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "5",
+    "issue": "4",
+    "pages": "1-29"
+  },
+  {
+    "year": "2020",
+    "venue": "IEEE TNSE",
+    "title": "Good or Mediocre? A Deep Reinforcement Learning Approach for Taxi Revenue Efficiency Optimization",
+    "authors": "Haotian Wang, Huigui Rong, Qun Zhang, Daibo Liu, Chunhua Hu, Yupeng Hu",
+    "authors_list": [
+      "Haotian Wang",
+      "Huigui Rong",
+      "Qun Zhang",
+      "Daibo Liu",
+      "Chunhua Hu",
+      "Yupeng Hu"
+    ],
+    "url": "https://doi.org/10.1109/tnse.2020.3009855",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnse.2020.3009855",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnse.2020.3009855"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tnse.2020.3009855",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Network Science and Engineering",
+    "volume": "7",
+    "issue": "4",
+    "pages": "3018-3027"
+  },
+  {
+    "year": "2020",
+    "venue": "ACM TOSN",
+    "title": "Pushing the Limits of Transmission Concurrency for Low Power Wireless Networks",
+    "authors": "Daibo Liu, Zhichao Cao, Mengshu Hou, Huigui Rong, Hongbo Jiang",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Mengshu Hou",
+      "Huigui Rong",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1145/3406834",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3406834",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3406834"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3406834",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "16",
+    "issue": "4",
+    "pages": "1-29"
+  },
+  {
+    "year": "2020",
+    "venue": "IEEE TVT",
+    "title": "Resource Allocation and Trajectory Optimization for QoE Provisioning in Energy-Efficient UAV-Enabled Wireless Networks",
+    "authors": "Fanzi Zeng, Zhenzhen Hu, Zhu Xiao, Hongbo Jiang, Siwang Zhou, Wenping Liu, Daibo Liu",
+    "authors_list": [
+      "Fanzi Zeng",
+      "Zhenzhen Hu",
+      "Zhu Xiao",
+      "Hongbo Jiang",
+      "Siwang Zhou",
+      "Wenping Liu",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/tvt.2020.2986776",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tvt.2020.2986776",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tvt.2020.2986776"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tvt.2020.2986776",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Vehicular Technology",
+    "volume": "69",
+    "issue": "7",
+    "pages": "7634-7647"
+  },
+  {
+    "year": "2020",
+    "venue": "ACM IMWUT / UbiComp",
+    "title": "SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones",
+    "authors": "Hongbo Jiang, Hangcheng Cao, Daibo Liu, Jie Xiong, Zhichao Cao",
+    "authors_list": [
+      "Hongbo Jiang",
+      "Hangcheng Cao",
+      "Daibo Liu",
+      "Jie Xiong",
+      "Zhichao Cao"
+    ],
+    "url": "https://doi.org/10.1145/3411806",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3411806",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3411806"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3411806",
+    "type": "journal-article",
+    "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "4",
+    "issue": "3",
+    "pages": "1-24"
+  },
+  {
+    "year": "2019",
+    "venue": "EWSN",
+    "title": "ALIGNER: Make the Utmost of Transmission Concurrency for Low Power Wireless Networks",
+    "authors": "Daibo Liu, Zhichao Cao, Mengshu Hou",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Mengshu Hou"
+    ],
+    "url": "https://www.ewsn.org/file-repository/ewsn2019/118_129_liu.pdf",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://www.ewsn.org/file-repository/ewsn2019/118_129_liu.pdf",
+    "source_urls": [
+      "https://www.ewsn.org/file-repository/ewsn2019/118_129_liu.pdf"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "",
+    "type": "proceedings-article",
+    "publication": "EWSN",
+    "volume": "",
+    "issue": "",
+    "pages": "118–129"
+  },
+  {
+    "year": "2019",
+    "venue": "ACM TECS",
+    "title": "Contention-Detectable Mechanism for Receiver-Initiated MAC",
+    "authors": "Daibo Liu, Zhichao Cao, Mingyan Liu, Mengshu Hou, Hongbo Jinag",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Mingyan Liu",
+      "Mengshu Hou",
+      "Hongbo Jinag"
+    ],
+    "url": "https://doi.org/10.1145/3317683",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3317683",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3317683"
+    ],
+    "year_note": "作者按出版物署名保留 Hongbo Jinag；导师列表与出版元数据的作者名单不同，引用以出版记录为准。",
+    "featured": false,
+    "doi": "10.1145/3317683",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Embedded Computing Systems",
+    "volume": "18",
+    "issue": "4",
+    "pages": "1-27"
+  },
+  {
+    "year": "2019",
+    "venue": "ACM TOSN",
+    "title": "Exploiting Concurrency for Opportunistic Forwarding in Duty-Cycled IoT Networks",
+    "authors": "Daibo Liu, Zhichao Cao, Yuan He, Xiaoyu Ji, Mengshu Hou, Hongbo Jiang",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Yuan He",
+      "Xiaoyu Ji",
+      "Mengshu Hou",
+      "Hongbo Jiang"
+    ],
+    "url": "https://doi.org/10.1145/3322496",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/3322496",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/3322496"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/3322496",
+    "type": "journal-article",
+    "publication": "ACM Transactions on Sensor Networks",
+    "volume": "15",
+    "issue": "3",
+    "pages": "1-33"
+  },
+  {
+    "year": "2019",
+    "venue": "IJCNN",
+    "title": "Generate Desired Images from Trained Generative Adversarial Networks",
+    "authors": "Ming Li, Rui Xi, Beier Chen, Mengshu Hou, Daibo Liu, Lei Guo",
+    "authors_list": [
+      "Ming Li",
+      "Rui Xi",
+      "Beier Chen",
+      "Mengshu Hou",
+      "Daibo Liu",
+      "Lei Guo"
+    ],
+    "url": "https://doi.org/10.1109/ijcnn.2019.8851911",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/ijcnn.2019.8851911",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/ijcnn.2019.8851911"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/ijcnn.2019.8851911",
+    "type": "proceedings-article",
+    "publication": "2019 International Joint Conference on Neural Networks (IJCNN)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-8"
+  },
+  {
+    "year": "2019",
+    "venue": "IEEE Internet of Things Journal",
+    "title": "Toward Accurate Vehicle State Estimation Under Non-Gaussian Noises",
+    "authors": "Zhu Xiao, Dapeng Xiao, Vincent Havyarimana, Hongbo Jiang, Daibo Liu, Dong Wang, Fanzi Zeng",
+    "authors_list": [
+      "Zhu Xiao",
+      "Dapeng Xiao",
+      "Vincent Havyarimana",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Dong Wang",
+      "Fanzi Zeng"
+    ],
+    "url": "https://doi.org/10.1109/jiot.2019.2940412",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/jiot.2019.2940412",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/jiot.2019.2940412"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/jiot.2019.2940412",
+    "type": "journal-article",
+    "publication": "IEEE Internet of Things Journal",
+    "volume": "6",
+    "issue": "6",
+    "pages": "10652-10664"
+  },
+  {
+    "year": "2018",
+    "venue": "IEEE TVT",
+    "title": "Adaptive Retransmission Layer for Duty Cycle Wireless Networks",
+    "authors": "Daibo Liu, Mengshu Hou, Zhichao Cao, Jiliang Wang",
+    "authors_list": [
+      "Daibo Liu",
+      "Mengshu Hou",
+      "Zhichao Cao",
+      "Jiliang Wang"
+    ],
+    "url": "https://doi.org/10.1109/tvt.2018.2877522",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tvt.2018.2877522",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tvt.2018.2877522"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tvt.2018.2877522",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Vehicular Technology",
+    "volume": "67",
+    "issue": "12",
+    "pages": "11950-11964"
+  },
+  {
+    "year": "2018",
+    "venue": "IEEE INFOCOM",
+    "title": "Chase++: Fountain-Enabled Fast Flooding in Asynchronous Duty Cycle Networks",
+    "authors": "Zhichao Cao, Jiliang Wang, Daibo Liu, Xin Miao, Qiang Ma, Xufei Mao",
+    "authors_list": [
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Daibo Liu",
+      "Xin Miao",
+      "Qiang Ma",
+      "Xufei Mao"
+    ],
+    "url": "https://doi.org/10.1109/infocom.2018.8485971",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/infocom.2018.8485971",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/infocom.2018.8485971"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/infocom.2018.8485971",
+    "type": "proceedings-article",
+    "publication": "IEEE INFOCOM 2018 - IEEE Conference on Computer Communications",
+    "volume": "",
+    "issue": "",
+    "pages": "2276-2284"
+  },
+  {
+    "year": "2018",
+    "venue": "IJCNN",
+    "title": "Deep Dilated Convolution on Multimodality Time Series for Human Activity Recognition",
+    "authors": "Rui Xi, Mengshu Hou, Mingsheng Fu, Hong Qu, Daibo Liu",
+    "authors_list": [
+      "Rui Xi",
+      "Mengshu Hou",
+      "Mingsheng Fu",
+      "Hong Qu",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1109/ijcnn.2018.8489540",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/ijcnn.2018.8489540",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/ijcnn.2018.8489540"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/ijcnn.2018.8489540",
+    "type": "proceedings-article",
+    "publication": "2018 International Joint Conference on Neural Networks (IJCNN)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-8"
+  },
+  {
+    "year": "2018",
+    "venue": "IEEE ACCESS",
+    "title": "Deep Dilation on Multimodality Time Series for Human Activity Recognition",
+    "authors": "Rui Xi, Ming Li, Mengshu Hou, Mingsheng Fu, Hong Qu, Daibo Liu, Charles R. Haruna",
+    "authors_list": [
+      "Rui Xi",
+      "Ming Li",
+      "Mengshu Hou",
+      "Mingsheng Fu",
+      "Hong Qu",
+      "Daibo Liu",
+      "Charles R. Haruna"
+    ],
+    "url": "https://doi.org/10.1109/access.2018.2870841",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/access.2018.2870841",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/access.2018.2870841"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/access.2018.2870841",
+    "type": "journal-article",
+    "publication": "IEEE Access",
+    "volume": "6",
+    "issue": "",
+    "pages": "53381-53396"
+  },
+  {
+    "year": "2018",
+    "venue": "Sensors",
+    "title": "Using Acoustic Signal and Image to Achieve Accurate Indoor Localization",
+    "authors": "Rui Xi, Daibo Liu, Mengshu Hou, Yujun Li, Jun Li",
+    "authors_list": [
+      "Rui Xi",
+      "Daibo Liu",
+      "Mengshu Hou",
+      "Yujun Li",
+      "Jun Li"
+    ],
+    "url": "https://doi.org/10.3390/s18082566",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.3390/s18082566",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.3390/s18082566"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.3390/s18082566",
+    "type": "journal-article",
+    "publication": "Sensors",
+    "volume": "18",
+    "issue": "8",
+    "pages": "2566"
+  },
+  {
+    "year": "2017",
+    "venue": "IEEE/ACM TON",
+    "title": "Achieving Accurate and Real-Time Link Estimation for Low Power Wireless Sensor Networks",
+    "authors": "Daibo Liu, Zhichao Cao, Yi Zhang, Mengshu Hou",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Yi Zhang",
+      "Mengshu Hou"
+    ],
+    "url": "https://doi.org/10.1109/tnet.2017.2682276",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnet.2017.2682276",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnet.2017.2682276"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tnet.2017.2682276",
+    "type": "journal-article",
+    "publication": "IEEE/ACM Transactions on Networking",
+    "volume": "25",
+    "issue": "4",
+    "pages": "2096-2109"
+  },
+  {
+    "year": "2017",
+    "venue": "IEEE/ACM TON",
+    "title": "Chase: Taming Concurrent Broadcast for Flooding in Asynchronous Duty Cycle Networks",
+    "authors": "Zhichao Cao, Daibo Liu, Jiliang Wang, Xiaolong Zheng",
+    "authors_list": [
+      "Zhichao Cao",
+      "Daibo Liu",
+      "Jiliang Wang",
+      "Xiaolong Zheng"
+    ],
+    "url": "https://doi.org/10.1109/tnet.2017.2712671",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnet.2017.2712671",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnet.2017.2712671"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tnet.2017.2712671",
+    "type": "journal-article",
+    "publication": "IEEE/ACM Transactions on Networking",
+    "volume": "25",
+    "issue": "5",
+    "pages": "2872-2885"
+  },
+  {
+    "year": "2017",
+    "venue": "IEEE TMC",
+    "title": "On Improving Wireless Channel Utilization: A Collision Tolerance-Based Approach",
+    "authors": "Xiaoyu Ji, Yuan He, Jiliang Wang, Kaishun Wu, Daibo Liu, Ke Yi, Yunhao Liu",
+    "authors_list": [
+      "Xiaoyu Ji",
+      "Yuan He",
+      "Jiliang Wang",
+      "Kaishun Wu",
+      "Daibo Liu",
+      "Ke Yi",
+      "Yunhao Liu"
+    ],
+    "url": "https://doi.org/10.1109/tmc.2016.2567380",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tmc.2016.2567380",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tmc.2016.2567380"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tmc.2016.2567380",
+    "type": "journal-article",
+    "publication": "IEEE Transactions on Mobile Computing",
+    "volume": "16",
+    "issue": "3",
+    "pages": "787-800"
+  },
+  {
+    "year": "2017",
+    "venue": "IEEE SECON",
+    "title": "Share Brings Benefits: Towards Maximizing Revenue for Crowdsourced Mobile Network Access",
+    "authors": "Yi Zhang, Yuan He, Jiliang Wang, Yanrong Kang, Daibo Liu, Bo Li, Yunhao Liu",
+    "authors_list": [
+      "Yi Zhang",
+      "Yuan He",
+      "Jiliang Wang",
+      "Yanrong Kang",
+      "Daibo Liu",
+      "Bo Li",
+      "Yunhao Liu"
+    ],
+    "url": "https://doi.org/10.1109/sahcn.2017.7964904",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/sahcn.2017.7964904",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/sahcn.2017.7964904"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/sahcn.2017.7964904",
+    "type": "proceedings-article",
+    "publication": "2017 14th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-9"
+  },
+  {
+    "year": "2016",
+    "venue": "ICPADS",
+    "title": "Bat with Good Eyesight: Using Acoustic Signal and Image to Achieve Accurate Indoor Localization",
+    "authors": "Rui Xi, Yujun Li, Daibo Liu, Siwei Luo, Mengshu Hou",
+    "authors_list": [
+      "Rui Xi",
+      "Yujun Li",
+      "Daibo Liu",
+      "Siwei Luo",
+      "Mengshu Hou"
+    ],
+    "url": "https://doi.org/10.1109/icpads.2016.0012",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icpads.2016.0012",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icpads.2016.0012"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icpads.2016.0012",
+    "type": "proceedings-article",
+    "publication": "2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS)",
+    "volume": "",
+    "issue": "",
+    "pages": "16-23"
+  },
+  {
+    "year": "2016",
+    "venue": "IEEE ICNP",
+    "title": "Chase: Taming concurrent broadcast for flooding in asynchronous duty cycle networks",
+    "authors": "Zhichao Cao, Jiliang Wang, Daibo Liu, Xiaolong Zheng",
+    "authors_list": [
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Daibo Liu",
+      "Xiaolong Zheng"
+    ],
+    "url": "https://doi.org/10.1109/icnp.2016.7784410",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icnp.2016.7784410",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icnp.2016.7784410"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icnp.2016.7784410",
+    "type": "proceedings-article",
+    "publication": "2016 IEEE 24th International Conference on Network Protocols (ICNP)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-10"
+  },
+  {
+    "year": "2016",
+    "venue": "IEEE/ACM TON",
+    "title": "Duplicate Detectable Opportunistic Forwarding in Duty-Cycled Wireless Sensor Networks",
+    "authors": "Daibo Liu, Mengshu Hou, Zhichao Cao, Jiliang Wang, Yuan He, Yunhao Liu",
+    "authors_list": [
+      "Daibo Liu",
+      "Mengshu Hou",
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Yuan He",
+      "Yunhao Liu"
+    ],
+    "url": "https://doi.org/10.1109/tnet.2014.2387440",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/tnet.2014.2387440",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/tnet.2014.2387440"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/tnet.2014.2387440",
+    "type": "journal-article",
+    "publication": "IEEE/ACM Transactions on Networking",
+    "volume": "24",
+    "issue": "2",
+    "pages": "662-673"
+  },
+  {
+    "year": "2016",
+    "venue": "IEEE/ACM IPSN",
+    "title": "Frame Counter: Achieving Accurate and Real-Time Link Estimation in Low Power Wireless Sensor Networks",
+    "authors": "Daibo Liu, Zhichao Cao, Mengshu Hou, Yi Zhang",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Mengshu Hou",
+      "Yi Zhang"
+    ],
+    "url": "https://doi.org/10.1109/ipsn.2016.7460673",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/ipsn.2016.7460673",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/ipsn.2016.7460673"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/ipsn.2016.7460673",
+    "type": "proceedings-article",
+    "publication": "2016 15th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-12"
+  },
+  {
+    "year": "2016",
+    "venue": "IEEE SECON",
+    "title": "Furion: Towards Energy-Efficient WiFi Offloading under Link Dynamics",
+    "authors": "Yi Zhang, Jiliang Wang, Yuan He, Xiaoyu Ji, Yanrong Kang, Daibo Liu, Bo Li",
+    "authors_list": [
+      "Yi Zhang",
+      "Jiliang Wang",
+      "Yuan He",
+      "Xiaoyu Ji",
+      "Yanrong Kang",
+      "Daibo Liu",
+      "Bo Li"
+    ],
+    "url": "https://doi.org/10.1109/sahcn.2016.7732994",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/sahcn.2016.7732994",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/sahcn.2016.7732994"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/sahcn.2016.7732994",
+    "type": "proceedings-article",
+    "publication": "2016 13th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-9"
+  },
+  {
+    "year": "2015",
+    "venue": "IEEE SECON",
+    "title": "CD-MAC: A contention detectable MAC for low duty-cycled wireless sensor networks",
+    "authors": "Daibo Liu, Xiaopei Wu, Zhichao Cao, Mingyan Liu, Yujun Li, Mengshu Hou",
+    "authors_list": [
+      "Daibo Liu",
+      "Xiaopei Wu",
+      "Zhichao Cao",
+      "Mingyan Liu",
+      "Yujun Li",
+      "Mengshu Hou"
+    ],
+    "url": "https://doi.org/10.1109/sahcn.2015.7338289",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/sahcn.2015.7338289",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/sahcn.2015.7338289"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/sahcn.2015.7338289",
+    "type": "proceedings-article",
+    "publication": "2015 12th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)",
+    "volume": "",
+    "issue": "",
+    "pages": "37-45"
+  },
+  {
+    "year": "2015",
+    "venue": "IEEE ICNP",
+    "title": "COF: Exploiting Concurrency for Low Power Opportunistic Forwarding",
+    "authors": "Daibo Liu, Mengshu Hou, Zhichao Cao, Yuan He, Xiaoyu Ji, Xiaolong Zheng",
+    "authors_list": [
+      "Daibo Liu",
+      "Mengshu Hou",
+      "Zhichao Cao",
+      "Yuan He",
+      "Xiaoyu Ji",
+      "Xiaolong Zheng"
+    ],
+    "url": "https://doi.org/10.1109/icnp.2015.13",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icnp.2015.13",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icnp.2015.13"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icnp.2015.13",
+    "type": "proceedings-article",
+    "publication": "2015 IEEE 23rd International Conference on Network Protocols (ICNP)",
+    "volume": "",
+    "issue": "",
+    "pages": "32-42"
+  },
+  {
+    "year": "2015",
+    "venue": "ICPP",
+    "title": "Connecting the Dots: Reconstructing Network Behavior with Individual and Lossy Logs",
+    "authors": "Jiliang Wang, Xiaolong Zheng, Xufei Mao, Zhichao Cao, Daibo Liu, Yunhao Liu",
+    "authors_list": [
+      "Jiliang Wang",
+      "Xiaolong Zheng",
+      "Xufei Mao",
+      "Zhichao Cao",
+      "Daibo Liu",
+      "Yunhao Liu"
+    ],
+    "url": "https://doi.org/10.1109/icpp.2015.26",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icpp.2015.26",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icpp.2015.26"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icpp.2015.26",
+    "type": "proceedings-article",
+    "publication": "2015 44th International Conference on Parallel Processing",
+    "volume": "",
+    "issue": "",
+    "pages": "170-179"
+  },
+  {
+    "year": "2015",
+    "venue": "IEEE ICDCS",
+    "title": "Tele Adjusting: Using Path Coding and Opportunistic Forwarding for Remote Control in WSNs",
+    "authors": "Daibo Liu, Zhichao Cao, Xiaopei Wu, Yuan He, Xiaoyu Ji, Mengshu Hou",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Xiaopei Wu",
+      "Yuan He",
+      "Xiaoyu Ji",
+      "Mengshu Hou"
+    ],
+    "url": "https://doi.org/10.1109/icdcs.2015.78",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icdcs.2015.78",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icdcs.2015.78"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icdcs.2015.78",
+    "type": "proceedings-article",
+    "publication": "2015 IEEE 35th International Conference on Distributed Computing Systems",
+    "volume": "",
+    "issue": "",
+    "pages": "716-725"
+  },
+  {
+    "year": "2014",
+    "venue": "ACM MobiHoc",
+    "title": "RxLayer: adaptive retransmission layer for low power wireless",
+    "authors": "Daibo Liu, Zhichao Cao, Jiliang Wang, Mengshu Hou, Yujun Li",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Mengshu Hou",
+      "Yujun Li"
+    ],
+    "url": "https://doi.org/10.1145/2632951.2632962",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1145/2632951.2632962",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1145/2632951.2632962"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1145/2632951.2632962",
+    "type": "proceedings-article",
+    "publication": "Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing",
+    "volume": "",
+    "issue": "",
+    "pages": "377-386"
+  },
+  {
+    "year": "2013",
+    "venue": "IEEE SAMI",
+    "title": "A novel method for multiple depot and open paths, Multiple Traveling Salesmen Problem",
+    "authors": "Xiaobin Wang, Daibo Liu, Mengshu Hou",
+    "authors_list": [
+      "Xiaobin Wang",
+      "Daibo Liu",
+      "Mengshu Hou"
+    ],
+    "url": "https://doi.org/10.1109/sami.2013.6480972",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/sami.2013.6480972",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/sami.2013.6480972"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/sami.2013.6480972",
+    "type": "proceedings-article",
+    "publication": "2013 IEEE 11th International Symposium on Applied Machine Intelligence and Informatics (SAMI)",
+    "volume": "",
+    "issue": "",
+    "pages": "187-192"
+  },
+  {
+    "year": "2013",
+    "venue": "COMPEL",
+    "title": "A simple model for the multiple traveling salesmen problem with single depot and multiple sink",
+    "authors": "Daibo Liu, Mengshu Hou, Hong Qu",
+    "authors_list": [
+      "Daibo Liu",
+      "Mengshu Hou",
+      "Hong Qu"
+    ],
+    "url": "https://doi.org/10.1108/03321641311296945",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1108/03321641311296945",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1108/03321641311296945"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1108/03321641311296945",
+    "type": "journal-article",
+    "publication": "COMPEL - The international journal for computation and mathematics in electrical and electronic engineering",
+    "volume": "32",
+    "issue": "2",
+    "pages": "556-574"
+  },
+  {
+    "year": "2013",
+    "venue": "IEEE ICNP",
+    "title": "DOF: Duplicate Detectable Opportunistic Forwarding in duty-cycled wireless sensor networks",
+    "authors": "Daibo Liu, Zhichao Cao, Jiliang Wang, Yuan He, Mengshu Hou, Yunhao Liu",
+    "authors_list": [
+      "Daibo Liu",
+      "Zhichao Cao",
+      "Jiliang Wang",
+      "Yuan He",
+      "Mengshu Hou",
+      "Yunhao Liu"
+    ],
+    "url": "https://doi.org/10.1109/icnp.2013.6733599",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1109/icnp.2013.6733599",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1109/icnp.2013.6733599"
+    ],
+    "year_note": "",
+    "featured": false,
+    "doi": "10.1109/icnp.2013.6733599",
+    "type": "proceedings-article",
+    "publication": "2013 21st IEEE International Conference on Network Protocols (ICNP)",
+    "volume": "",
+    "issue": "",
+    "pages": "1-10"
+  },
+  {
+    "year": "2012",
+    "venue": "Chinese Science Bulletin",
+    "title": "A novel method for solving the multiple traveling salesmen problem with multiple depots",
+    "authors": "Mengshu Hou, Daibo Liu",
+    "authors_list": [
+      "Mengshu Hou",
+      "Daibo Liu"
+    ],
+    "url": "https://doi.org/10.1007/s11434-012-5162-7",
+    "link_label": "论文详情",
+    "code_url": "",
+    "source_url": "https://api.crossref.org/works/10.1007/s11434-012-5162-7",
+    "source_urls": [
+      "https://sites.google.com/site/dbliuuestc/publications",
+      "https://api.crossref.org/works/10.1007/s11434-012-5162-7"
+    ],
+    "year_note": "导师列表未列年份；按 Crossref 正式卷期 57(15) 补为 2012。",
+    "featured": false,
+    "doi": "10.1007/s11434-012-5162-7",
+    "type": "journal-article",
+    "publication": "Chinese Science Bulletin",
+    "volume": "57",
+    "issue": "15",
+    "pages": "1886-1892"
+  }
+]

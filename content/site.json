@@ -1,0 +1,107 @@
+{
+  "name": "SITS Lab",
+  "university": "湖南大学 · Hunan University",
+  "headline": "感知物理世界，\n赋能智能未来。",
+  "intro": "面向物理智能（Physical Intelligence），探索真实世界的信息获取、空间理解、环境感知与智能决策。",
+  "email": "dbliu@hnu.edu.cn",
+  "github_url": "https://github.com/sitslab",
+  "research": [
+    {
+      "title": "空间智能",
+      "description": "围绕真实物理世界的空间理解，研究基于机会信号的室内定位、导航与环境认知。",
+      "tags": "Spatial Intelligence / 定位与导航"
+    },
+    {
+      "title": "可信感知",
+      "description": "融合电磁辐射、无线射频与机会信号，探索可信、高效的感知机理与计算方法。",
+      "tags": "Trusted Sensing / EMR · RF · SoOP"
+    },
+    {
+      "title": "智能健康感知",
+      "description": "面向智慧医疗与智能终端，开展人体生命体征、生理信号与多模态健康感知研究。",
+      "tags": "Intelligent Health / 生理信号"
+    },
+    {
+      "title": "隐私与安全",
+      "description": "研究物理空间隐私保护、隐蔽设备检测与身份认证，为人机物融合环境提供安全支撑。",
+      "tags": "Privacy & Security / 隐蔽设备检测"
+    },
+    {
+      "title": "多模态智能计算",
+      "description": "融合多模态环境信息，研究从信息获取、特征理解到智能决策的计算方法。",
+      "tags": "Multimodal Intelligence / 环境理解"
+    },
+    {
+      "title": "智能感知系统",
+      "description": "连接感知机理、智能算法与系统平台，探索通感一体化及面向智能终端与机器人的感知能力。",
+      "tags": "Sensing Systems / 通感一体化"
+    }
+  ],
+  "people": [
+    {
+      "name": "Daibo Liu",
+      "name_zh": "刘代波",
+      "role": "实验室导师 / Principal Investigator",
+      "title": "湖南大学副教授 · 博士生导师 · 岳麓学者",
+      "bio": "刘代波，2018 年获电子科技大学博士学位，2019 年加入湖南大学。研究方向包括物联网安全、无线感知与边缘计算。曾在清华大学及美国威斯康星大学麦迪逊分校开展联合培养与研究工作。现为 CCF 高级会员、CCF 物联网专委会与普适计算专委会执行委员。",
+      "url": "https://csee.hnu.edu.cn/people/liudaibo",
+      "url_label": "湖南大学教师主页",
+      "academic_url": "https://sites.google.com/site/dbliuuestc/"
+    }
+  ],
+  "projects": [],
+  "news": [],
+  "contact_text": "欢迎围绕空间智能、可信感知、智能健康与隐私安全开展学术交流与合作。有意加入实验室的同学可联系刘代波老师，具体招生安排以学校和导师最新通知为准。",
+  "location": "中国 · 湖南长沙",
+  "profile_url": "https://sites.google.com/site/dbliuuestc/publications",
+  "name_zh": "空间智能与可信感知实验室",
+  "full_name": "Spatial Intelligence & Trusted Sensing Lab",
+  "motto_en": "Sense the Physical World, Empower Intelligent Future",
+  "about": [
+    "空间智能与可信感知实验室（Spatial Intelligence & Trusted Sensing Lab，SITS Lab）面向“物理智能（Physical Intelligence）”的发展需求，围绕真实物理世界的信息获取、空间理解、环境感知与智能决策等关键科学问题，开展基础理论、关键技术与系统平台研究。实验室致力于突破传统视觉感知和无线通信的技术边界，融合电磁辐射（EMR）、无线射频（RF）、机会信号（Signals of Opportunity）、生理信号及多模态环境信息，构建可信、高效、智能的新一代感知理论与计算方法，为智能终端、机器人、智慧医疗、智慧城市及未来移动通信提供面向物理世界的智能感知能力。",
+    "实验室重点围绕空间智能、可信感知、智能健康感知、隐私安全与智能感知系统等方向开展研究，包括电磁感知、无线感知、基于机会信号的室内定位与导航、物理空间隐私保护、隐蔽设备检测、人体生命体征感知、多模态智能计算以及通感一体化等关键技术，形成从感知机理、智能算法到系统平台的完整技术体系。",
+    "实验室坚持“感知物理世界，赋能智能未来（Sense the Physical World, Empower Intelligent Future）”的理念，致力于构建面向真实世界的可信感知基础设施，推动人工智能从数字空间走向物理空间，为未来智能终端、具身智能系统以及人机物融合环境提供安全、可靠、高效的感知与智能支撑。"
+  ],
+  "grants": [
+    {
+      "title": "面向用户隐私安全的物理空间隐蔽设备检测关键技术研究",
+      "type": "国家自然科学基金面上项目",
+      "number": "62572183",
+      "period": "2026–2029",
+      "role": "主持"
+    },
+    {
+      "title": "基于交互驱动的手指振动跨设备身份认证关键技术研究",
+      "type": "国家自然科学基金面上项目",
+      "number": "62372166",
+      "period": "2024–2027",
+      "role": "主持"
+    },
+    {
+      "title": "基于手指振动指纹跨智能设备用户识别关键技术研究",
+      "type": "湖南省自然科学基金面上项目",
+      "number": "2023JJ30164",
+      "period": "2023–2025",
+      "role": "主持"
+    },
+    {
+      "title": "面向低功耗无线网络无协调并发介质访问关键技术研究",
+      "type": "国家自然科学基金青年项目",
+      "number": "61902122",
+      "period": "2020–2022",
+      "role": "主持"
+    }
+  ],
+  "academic_service": [
+    {
+      "title": "学术服务",
+      "text": "担任 IEEE ICDCS、ACM CHI、IEEE DySPAN 等会议程序委员会委员，以及 IEEE TMC、IEEE/ACM ToN、ACM TOSN 等期刊审稿人。",
+      "url": "https://sites.google.com/site/dbliuuestc/"
+    },
+    {
+      "title": "课程教学",
+      "text": "本科生课程：Computer Networks。研究生课程：Introduction to Internet of Things。",
+      "url": "https://csee.hnu.edu.cn/people/liudaibo"
+    }
+  ]
+}

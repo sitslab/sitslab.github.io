@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2025-11",
+    "tag": "ACM MobiCom",
+    "text_en": "A paper on LLM agents for traffic accident handling was selected for presentation at ACM MobiCom 2025.",
+    "text_zh": "交通事故处理 LLM 智能体相关论文入选 ACM MobiCom 2025 展示。",
+    "source_url": "https://sites.google.com/site/dbliuuestc/"
+  },
+  {
+    "date": "2025-10",
+    "tag": "IEEE TMC",
+    "text_en": "Research on user authentication with out-ear microphones in commercial earphones was accepted by IEEE Transactions on Mobile Computing.",
+    "text_zh": "利用商用耳机外置麦克风开展身份认证的研究获 IEEE Transactions on Mobile Computing 接收。",
+    "source_url": "https://sites.google.com/site/dbliuuestc/"
+  },
+  {
+    "date": "2025-07",
+    "tag": "ACM IMWUT / UbiComp",
+    "text_en": "Amulet, which combines sensitive information access and identity authentication on mobile devices, was accepted by ACM IMWUT / UbiComp 2025.",
+    "text_zh": "Amulet 移动设备敏感信息访问与身份认证研究获 ACM IMWUT / UbiComp 2025 接收。",
+    "source_url": "https://sites.google.com/site/dbliuuestc/"
+  },
+  {
+    "date": "2025-04",
+    "tag": "ACM IMWUT / UbiComp",
+    "text_en": "Research on black-box keystroke inference attacks against mobile devices was accepted by ACM IMWUT / UbiComp 2025.",
+    "text_zh": "面向移动设备的黑盒击键推断攻击研究获 ACM IMWUT / UbiComp 2025 接收。",
+    "source_url": "https://sites.google.com/site/dbliuuestc/"
+  },
+  {
+    "date": "2024-08",
+    "tag": "ACM CCS",
+    "text_en": "GPSBuster research on hidden GPS tracker detection was accepted at ACM CCS 2024.",
+    "text_zh": "GPSBuster 隐蔽 GPS 追踪器检测研究获 ACM CCS 2024 接收。",
+    "source_url": "https://sites.google.com/site/dbliuuestc/"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "name": "SITS Lab",
+  "university": "Hunan University",
+  "headline": "Sense the Physical World,\nEmpower Intelligent Future",
+  "intro": "We study spatial intelligence and trusted sensing: connecting physical signals, environmental understanding, and intelligent decisions in the real world.",
+  "email": "dbliu@hnu.edu.cn",
+  "github_url": "https://github.com/sitslab",
+  "research": [
+    {
+      "title": "Spatial intelligence",
+      "description": "Understanding physical spaces through indoor localization, navigation, and environmental awareness using signals of opportunity.",
+      "tags": "Localization / Navigation / Spatial understanding"
+    },
+    {
+      "title": "Trusted sensing",
+      "description": "Exploring reliable and efficient sensing mechanisms using electromagnetic radiation, radio frequency signals, and signals of opportunity.",
+      "tags": "Electromagnetic radiation / RF / Signals of opportunity"
+    },
+    {
+      "title": "Intelligent health sensing",
+      "description": "Studying physiological signals, vital signs, and multimodal sensing for intelligent healthcare and everyday devices.",
+      "tags": "Physiological signals / Vital signs / Healthcare"
+    },
+    {
+      "title": "Privacy & security",
+      "description": "Investigating physical-space privacy, hidden-device detection, and user authentication for connected environments.",
+      "tags": "Privacy / Hidden-device detection / Authentication"
+    },
+    {
+      "title": "Multimodal intelligence",
+      "description": "Combining diverse environmental signals to connect information acquisition, interpretation, and intelligent decision-making.",
+      "tags": "Multimodal computing / Environmental understanding"
+    },
+    {
+      "title": "Intelligent sensing systems",
+      "description": "Connecting sensing mechanisms, algorithms, and platforms, with applications to smart devices, robotics, and integrated sensing and communication.",
+      "tags": "Sensing systems / Robotics / Integrated sensing and communication"
+    }
+  ],
+  "people": [
+    {
+      "name": "Daibo Liu",
+      "name_zh": "刘代波",
+      "role": "Principal Investigator",
+      "title": "Associate Professor · PhD Supervisor",
+      "bio": "Daibo Liu received his PhD from the University of Electronic Science and Technology of China in 2018 and joined Hunan University in 2019. His research interests include IoT security, wireless sensing, and edge computing. He has conducted research at Tsinghua University and the University of Wisconsin–Madison. He is a Senior Member of CCF.",
+      "url": "https://csee.hnu.edu.cn/people/liudaibo",
+      "url_label": "University profile",
+      "academic_url": "https://sites.google.com/site/dbliuuestc/"
+    }
+  ],
+  "projects": [],
+  "news": [],
+  "contact_text": "We welcome research collaboration and enquiries from prospective students interested in spatial intelligence, trusted sensing, health sensing, and privacy. Please contact Dr. Daibo Liu for current opportunities.",
+  "location": "Changsha, Hunan, China",
+  "profile_url": "https://sites.google.com/site/dbliuuestc/publications",
+  "name_zh": "空间智能与可信感知实验室",
+  "full_name": "Spatial Intelligence & Trusted Sensing Lab",
+  "motto_en": "Sense the Physical World, Empower Intelligent Future",
+  "about": [
+    "The Spatial Intelligence & Trusted Sensing Lab (SITS Lab) at Hunan University studies how intelligent systems acquire information, understand space, sense their surroundings, and make decisions in the physical world. Motivated by the development of Physical Intelligence, we pursue fundamental theory, enabling technologies, and system platforms. We aim to extend sensing beyond the boundaries of conventional vision and wireless communication by bringing together electromagnetic radiation (EMR), radio frequency (RF) signals, signals of opportunity, physiological signals, and multimodal environmental information.",
+    "Our research spans spatial intelligence, trusted sensing, intelligent health sensing, privacy and security, and intelligent sensing systems. Topics include electromagnetic and wireless sensing, indoor localization and navigation using signals of opportunity, physical-space privacy protection, hidden-device detection, vital-sign sensing, multimodal intelligent computing, and integrated sensing and communication. We connect sensing mechanisms with intelligent algorithms and system platforms.",
+    "Guided by “Sense the Physical World, Empower Intelligent Future,” we aim to build trusted sensing infrastructure for the real world and help bring artificial intelligence from digital environments into physical spaces. Our work seeks to support smart devices, robots, intelligent healthcare, smart cities, and future mobile communication, providing safe, reliable, and efficient sensing for embodied intelligence and environments shared by people and connected devices."
+  ],
+  "grants": [
+    {
+      "title": "Detecting Covert Devices in Physical Spaces for User Privacy Security",
+      "type": "NSFC General Program",
+      "number": "62572183",
+      "period": "2026–2029",
+      "role": "Principal investigator"
+    },
+    {
+      "title": "Interaction-Driven Finger Vibrations for Cross-Device User Authentication",
+      "type": "NSFC General Program",
+      "number": "62372166",
+      "period": "2024–2027",
+      "role": "Principal investigator"
+    },
+    {
+      "title": "Cross-Device User Identification Using Finger Vibration Fingerprints",
+      "type": "Hunan Provincial Natural Science Foundation",
+      "number": "2023JJ30164",
+      "period": "2023–2025",
+      "role": "Principal investigator"
+    },
+    {
+      "title": "Concurrent Medium Access without Scheduling in Low-Power Wireless Networks",
+      "type": "NSFC Young Scientists Fund",
+      "number": "61902122",
+      "period": "2020–2022",
+      "role": "Principal investigator"
+    }
+  ],
+  "academic_service": [
+    {
+      "title": "Academic service",
+      "text": "Program committee service includes IEEE ICDCS, ACM CHI, and IEEE DySPAN; journal reviewing includes IEEE TMC, IEEE/ACM ToN, and ACM TOSN.",
+      "url": "https://sites.google.com/site/dbliuuestc/"
+    },
+    {
+      "title": "Teaching",
+      "text": "Computer Networks (undergraduate) and Introduction to Internet of Things (graduate).",
+      "url": "https://csee.hnu.edu.cn/people/liudaibo"
+    }
+  ]
+}
