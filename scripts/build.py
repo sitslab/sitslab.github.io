@@ -143,15 +143,18 @@ for locale in ('en', 'zh'):
     publications = ''.join(paper_html(p) for p in featured)
     recent_publications = '<ul class="recent-list">' + ''.join(f'<li><span class="venue">{e(p["year"])} · {e(p["venue"])}</span><a href="{url(p["url"])}">{e(p["title"])}</a></li>' for p in papers[:3]) + '</ul>'
     highlight_specs = [
-        ('Eye of Sauron', 'emr-template.svg', 'Hidden-device detection', '隐蔽设备检测', 'Detecting and locating hidden cameras through memory electromagnetic radiation.', '利用内存电磁辐射检测与定位隐蔽摄像头。'),
-        ('Decoding Air Friction', 'wearable-template.svg', 'Sensing with everyday wearables', '日常可穿戴设备感知', 'Exploring user identification with out-ear microphones in commercial earphones.', '利用商用耳机外置麦克风开展用户身份识别研究。'),
-        ('Amulet:', 'mobile-template.svg', 'Mobile privacy & authentication', '移动隐私与身份认证', 'Integrating sensitive information access with identity authentication on mobile devices.', '将移动设备敏感信息访问与身份认证相结合。')]
+        ('Eye of Sauron', 'usenix2024.png', 'Hidden-device detection', '隐蔽设备检测', 'Detecting and locating hidden cameras through memory electromagnetic radiation.', '利用内存电磁辐射检测与定位隐蔽摄像头。'),
+        ('Decoding Air Friction', 'tmc2026.png', 'Sensing with everyday wearables', '日常可穿戴设备感知', 'Exploring user identification with out-ear microphones in commercial earphones.', '利用商用耳机外置麦克风开展用户身份识别研究。'),
+        ('Amulet:', 'imwut2025.png', 'Mobile privacy & authentication', '移动隐私与身份认证', 'Integrating sensitive information access with identity authentication on mobile devices.', '将移动设备敏感信息访问与身份认证相结合。')]
+    highlight_image_sizes = {'usenix2024.png': (2138, 658), 'tmc2026.png': (958, 664), 'imwut2025.png': (1752, 494)}
     highlights = ''
     for prefix, image, title_en, title_zh, desc_en, desc_zh in highlight_specs:
         paper = next(p for p in papers if p['title'].startswith(prefix))
         title, desc = (title_en, desc_en) if locale == 'en' else (title_zh, desc_zh)
-        caption = title + (' illustration' if locale == 'en' else '示意图')
-        highlights += f'<article class="highlight"><figure><img src="./images/{image}" width="800" height="450" alt="{e(caption)}"></figure><span class="venue">{e(paper["venue"])} · {e(paper["year"])}</span><h3>{e(title)}</h3><p>{e(desc)}</p>{link(paper["url"], "Paper" if locale == "en" else "论文详情")}</article>'
+        caption = paper['title'] + (' — paper figure' if locale == 'en' else ' — 论文配图')
+        figure_label = ('View full-size figure: ' if locale == 'en' else '查看论文配图大图：') + paper['title']
+        image_width, image_height = highlight_image_sizes[image]
+        highlights += f'<article class="highlight"><figure><a class="paper-figure-link" href="./images/{image}" target="_blank" rel="noopener" aria-label="{e(figure_label)}"><img src="./images/{image}" width="{image_width}" height="{image_height}" alt="{e(caption)}" loading="lazy"></a></figure><span class="venue">{e(paper["venue"])} · {e(paper["year"])}</span><h3>{e(title)}</h3><p>{e(desc)}</p>{link(paper["url"], "Paper" if locale == "en" else "论文详情")}</article>'
     archive = ''
     count_label = 'papers' if locale == 'en' else '篇'
     for year in years:

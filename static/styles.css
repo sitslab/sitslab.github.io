@@ -18,3 +18,6 @@
 
 /* Lab photos: fill portrait frames without letterboxing or distortion. */
 .brand-logo{width:64px;height:auto;display:block;background:#fff;border-radius:2px;flex-shrink:0}.portrait img{height:auto;aspect-ratio:3/4;object-fit:cover;object-position:center}.member img{aspect-ratio:3/4;object-fit:cover;object-position:center}.portrait,.member figure{overflow:hidden}@media(max-width:650px){.brand-logo{width:50px}}
+
+/* Paper figures keep all labels visible and open at full resolution. */
+.highlight figure{aspect-ratio:16/9}.highlight .paper-figure-link{display:block;width:100%;height:100%}.highlight img{width:100%;height:100%;object-fit:contain}.paper-figure-link:focus-visible{outline:3px solid #075ab5;outline-offset:4px}
