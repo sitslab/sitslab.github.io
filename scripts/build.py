@@ -10,6 +10,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 pub_file = ROOT / 'content/publications.json'
 papers = json.loads(pub_file.read_text(encoding='utf-8'))
+analytics = json.loads((ROOT / 'content/analytics.json').read_text(encoding='utf-8'))
 
 
 def e(value):
@@ -180,7 +181,14 @@ for locale in ('en', 'zh'):
     header = f'''<header class="header"><div class="header-inner">
     <a class="brand" href="./index.html" aria-label="SITS Lab 首页"><img class="brand-logo" src="./images/sitslab.png" width="711" height="593" alt=""><span>{e(data['name'])}<small>空间智能与可信感知</small></span></a>
     <nav aria-label="主导航"><a href="./index.html">首页</a><a href="./research.html">研究方向</a><a href="./team.html">团队</a><a href="./publications.html">学术成果</a><a href="./grants.html">科研课题</a><a href="./contact.html">联系</a></nav></div></header>'''
-    footer = f'''<footer class="container footer"><div><strong>{e(data['name'])}</strong><br>{e(data['full_name'])}</div><span>{e(data['name_zh'])}<br>湖南大学 · Hunan University</span><a href="./index.html">返回首页 ↑</a></footer>'''
+    stats_title = 'Website visits' if locale == 'en' else '网站访问统计'
+    stats_description = 'Pageviews and visitor countries / regions' if locale == 'en' else '浏览次数 · 访客国家／地区'
+    stats_since = ('Counting since ' if locale == 'en' else '自 ') + e(analytics['started_on']) + ('' if locale == 'en' else ' 起统计')
+    stats_details = 'View detailed statistics' if locale == 'en' else '查看详细统计'
+    stats_privacy = 'Statistics & privacy' if locale == 'en' else '统计与隐私说明'
+    stats_alt = 'Visitor countries / regions and pageview count' if locale == 'en' else '访客国家／地区及累计浏览次数'
+    statistics = f'''<section class="visitor-statistics" aria-label="{stats_title}"><div class="visitor-statistics-copy"><h2>{stats_title}</h2><p>{stats_description}</p><p class="visitor-statistics-note">{stats_since} · {e(analytics['provider'])}<br><a href="https://www.flagcounter.com/privacy.html" target="_blank" rel="noopener noreferrer">{stats_privacy} <span aria-hidden="true">↗</span></a></p></div><a class="visitor-counter-link" href="{url(analytics['statistics_url'])}" target="_blank" rel="noopener noreferrer"><img src="{url(analytics['image_url'])}" width="198" alt="{stats_alt}" loading="eager" decoding="async" referrerpolicy="no-referrer"><span>{stats_details} <span aria-hidden="true">↗</span></span></a></section>'''
+    footer = f'''<footer class="container footer"><div><strong>{e(data['name'])}</strong><br>{e(data['full_name'])}</div><span>{e(data['name_zh'])}<br>湖南大学 · Hunan University</span><a href="./index.html">返回首页 ↑</a>{statistics}</footer>'''
     values = {k: e(v) for k, v in data.items() if isinstance(v, str)}
     values['full_name_marked'] = re.sub(r'\b(Spatial|Intelligence|Trusted|Sensing)\b', lambda m: '<strong class="acronym-initial">' + m[0][0] + '</strong>' + m[0][1:], e(data['full_name']))
     values.update(header=header, footer=footer, research=research, people=people, students=students, alumni=alumni, publications=publications,
