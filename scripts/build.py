@@ -105,7 +105,7 @@ for locale in ('en', 'zh'):
         photo = p.get('photo', 'portrait-template.svg')
         if not re.fullmatch(r'[a-zA-Z0-9_.-]+', photo) or not (ROOT / 'static/images' / photo).is_file():
             raise ValueError('Missing or invalid faculty photo: ' + photo)
-        people += f'<article class="person"><figure class="portrait"><img src="./images/{e(photo)}" width="360" height="360" alt="{e(portrait_alt)}"></figure><div class="person-name"><span class="eyebrow">{e(p["role"])}</span><h3>{e(display_name)} <span>{e(second_name)}</span></h3><p>{e(p["title"])}</p></div><div class="person-bio"><p>{e(p["bio"])}</p><div class="pub-links">{link(p["url"], p["url_label"])}{academic}</div></div></article>'
+        people += f'<article class="person"><figure class="portrait"><img src="./images/{e(photo)}" width="360" height="480" alt="{e(portrait_alt)}"></figure><div class="person-name"><span class="eyebrow">{e(p["role"])}</span><h3>{e(display_name)} <span>{e(second_name)}</span></h3><p>{e(p["title"])}</p></div><div class="person-bio"><p>{e(p["bio"])}</p><div class="pub-links">{link(p["url"], p["url_label"])}{academic}</div></div></article>'
     students = ''
     team_members = json.loads((ROOT / 'content/team.json').read_text(encoding='utf-8'))
     for group, en_heading, zh_heading in (('phd', 'PhD students', '博士生'), ('masters', "Master’s students", '硕士生')):
@@ -119,7 +119,7 @@ for locale in ('en', 'zh'):
             alt = '' if photo == 'portrait-template.svg' else primary + (' portrait' if locale == 'en' else '的照片')
             if not re.fullmatch(r'[a-zA-Z0-9_.-]+', photo) or not (ROOT / 'static/images' / photo).is_file():
                 raise ValueError('Missing or invalid team photo: ' + photo)
-            cards += f'<article class="member"><figure><img src="./images/{e(photo)}" width="360" height="360" alt="{e(alt)}"></figure><h3>{e(primary)}</h3><p class="member-secondary">{e(secondary)}</p><p class="entry-year">{year_label} · {e(member["entry_year"])}</p></article>'
+            cards += f'<article class="member"><figure><img src="./images/{e(photo)}" width="360" height="480" alt="{e(alt)}"></figure><h3>{e(primary)}</h3><p class="member-secondary">{e(secondary)}</p><p class="entry-year">{year_label} · {e(member["entry_year"])}</p></article>'
         students += f'<section class="section student-group"><div class="section-heading"><h2>{heading}</h2></div><div class="member-grid">{cards}</div></section>'
     alumni_members = json.loads((ROOT / 'content/alumni.json').read_text(encoding='utf-8'))
     alumni_heading = 'Alumni' if locale == 'en' else '已毕业成员'
