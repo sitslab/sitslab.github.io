@@ -34,6 +34,6 @@ Update both languages. Use verified information; do not invent alumni, destinati
 
 The laboratory organization owns this repository. In Settings → Pages select GitHub Actions. The workflow validates pull requests and builds/deploys pushes to `main`.
 
-For routine updates, create a branch and open a pull request. A website maintainer reviews it before merging. Keep organization ownership with the designated long-term administrators; grant students repository Maintain access when needed.
+For routine updates, create a branch and open a pull request. The current maintenance policy requires a passing build and zero mandatory approvals, so the maintainer can merge their own pull request. Review by another maintainer remains optional. Keep organization ownership with the designated long-term administrators; grant students repository Maintain access when needed.
 
 The website's source and content license has not yet been selected by the laboratory.
