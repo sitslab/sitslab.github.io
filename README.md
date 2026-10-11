@@ -26,7 +26,7 @@ Open http://127.0.0.1:4173/ . Generated files in `dist/` are not edited or commi
 - `static/images/`: photos and illustrations.
 - `static/styles.css` and `templates/`: presentation.
 
-Faculty photo filenames are stored in each `people` entry in both site JSON files. The homepage uses `static/images/lab-group.webp`; the header and page icon use `static/images/sitslab.png`. Student photos use consistent frames without cropping. Liang Jiahui and Li Haipeng retain placeholders until their photos are provided. Web images are optimized copies; original source photos are preserved.
+Faculty photo filenames are stored in each `people` entry in both site JSON files. The homepage uses `static/images/lab-group.webp`; the header and page icon use `static/images/sitslab.png`. Student photos use consistent frames without cropping. Web images are optimized copies; original source photos are preserved.
 
 Update both languages. Use verified information; do not invent alumni, destinations, news or publication data. Faculty publications may predate the laboratory.
 
