@@ -216,6 +216,8 @@ for locale in ('en', 'zh'):
         html = re.sub(r'src="\./images/([^"?]+)"', version_image, html)
         style_version = hashlib.sha256((ROOT / 'static/styles.css').read_bytes()).hexdigest()[:10]
         html = html.replace('./styles.css"', f'./styles.css?v={style_version}"')
+        carousel_version = hashlib.sha256((ROOT / 'static/carousel.js').read_bytes()).hexdigest()[:10]
+        html = html.replace('./carousel.js"', f'./carousel.js?v={carousel_version}"')
         html = html.replace('</head>', f'<link rel="alternate" hreflang="en" href="{english_page}"><link rel="alternate" hreflang="zh-CN" href="{chinese_page}"></head>')
         (out / filename).write_text(html, encoding='utf-8')
     legacy_filename = 'people' + ('.zh' if locale == 'zh' else '') + '.html'
@@ -225,7 +227,7 @@ for locale in ('en', 'zh'):
     legacy_news = 'news' + ('.zh' if locale == 'zh' else '') + '.html'
     home_news = 'index' + ('.zh' if locale == 'zh' else '') + '.html#news'
     (out / legacy_news).write_text(f'<!doctype html><html lang="{legacy_lang}"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=./{home_news}"><title>News · SITS Lab</title></head><body><a href="./{home_news}">News / 实验室动态</a></body></html>', encoding='utf-8')
-    for asset in ('styles.css', 'favicon.svg'):
+    for asset in ('styles.css', 'favicon.svg', 'carousel.js'):
         shutil.copyfile(ROOT / 'static' / asset, out / asset)
     shutil.copytree(ROOT / 'static/images', out / 'images', dirs_exist_ok=True)
     (out / '.nojekyll').touch()
