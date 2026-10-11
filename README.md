@@ -26,7 +26,7 @@ Open http://127.0.0.1:4173/ . Generated files in `dist/` are not edited or commi
 - `static/images/`: photos and illustrations.
 - `static/styles.css` and `templates/`: presentation.
 
-Faculty photo filenames are stored in each `people` entry in both site JSON files. The homepage uses `static/images/lab-group.webp`; the header and page icon use `static/images/sitslab.png`. Faculty and student photos fill consistent 3:4 portrait frames without distortion; excess edges are cropped around the center. Web images are optimized copies; original source photos are preserved.
+Faculty photo filenames are stored in each `people` entry in both site JSON files. The homepage uses `static/images/lab-group.webp`; the header and page icon use `static/images/sitslab.png`. Faculty and student photos fill consistent 3:4 portrait frames without distortion; excess edges are cropped around the center. Web photos are optimized copies; original source photos are preserved. Research highlight figures use `usenix2024.png` (Eye of Sauron), `tmc2026.png` (Decoding Air Friction), and `imwut2025.png` (Amulet) at their original resolution. The full figures remain visible and can be opened by clicking them.
 
 Update both languages. Use verified information; do not invent alumni, destinations, news or publication data. Faculty publications may predate the laboratory.
 
