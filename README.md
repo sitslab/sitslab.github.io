@@ -19,12 +19,14 @@ Open http://127.0.0.1:4173/ . Generated files in `dist/` are not edited or commi
 ## Content maintenance
 
 - `content/site.en.json` and `content/site.json`: lab introduction, research, faculty, grants and contact.
-- `content/team.json`: students and entry years.
+- `content/team.json`: students, entry years and photo filenames.
 - `content/alumni.json`: graduates and destinations.
 - `content/publications.json`: shared publication catalogue with sources.
 - `content/news.json`: bilingual news shown in the scrollable Home module.
 - `static/images/`: photos and illustrations.
 - `static/styles.css` and `templates/`: presentation.
+
+Faculty photo filenames are stored in each `people` entry in both site JSON files. The homepage uses `static/images/lab-group.webp`; the header and page icon use `static/images/sitslab.png`. Student photos use consistent frames without cropping. Liang Jiahui and Li Haipeng retain placeholders until their photos are provided. Web images are optimized copies; original source photos are preserved.
 
 Update both languages. Use verified information; do not invent alumni, destinations, news or publication data. Faculty publications may predate the laboratory.
 

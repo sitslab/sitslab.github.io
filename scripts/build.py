@@ -101,8 +101,11 @@ for locale in ('en', 'zh'):
     for p in data['people']:
         academic = link(p['academic_url'], '个人学术主页') if p.get('academic_url') else ''
         display_name, second_name = (p['name'], p['name_zh']) if locale == 'en' else (p['name_zh'], p['name'])
-        portrait_alt = ''
-        people += f'<article class="person"><figure class="portrait"><img src="./images/portrait-template.svg" width="360" height="360" alt="{portrait_alt}"></figure><div class="person-name"><span class="eyebrow">{e(p["role"])}</span><h3>{e(display_name)} <span>{e(second_name)}</span></h3><p>{e(p["title"])}</p></div><div class="person-bio"><p>{e(p["bio"])}</p><div class="pub-links">{link(p["url"], p["url_label"])}{academic}</div></div></article>'
+        portrait_alt = display_name + (' portrait' if locale == 'en' else '的照片')
+        photo = p.get('photo', 'portrait-template.svg')
+        if not re.fullmatch(r'[a-zA-Z0-9_.-]+', photo) or not (ROOT / 'static/images' / photo).is_file():
+            raise ValueError('Missing or invalid faculty photo: ' + photo)
+        people += f'<article class="person"><figure class="portrait"><img src="./images/{e(photo)}" width="360" height="360" alt="{e(portrait_alt)}"></figure><div class="person-name"><span class="eyebrow">{e(p["role"])}</span><h3>{e(display_name)} <span>{e(second_name)}</span></h3><p>{e(p["title"])}</p></div><div class="person-bio"><p>{e(p["bio"])}</p><div class="pub-links">{link(p["url"], p["url_label"])}{academic}</div></div></article>'
     students = ''
     team_members = json.loads((ROOT / 'content/team.json').read_text(encoding='utf-8'))
     for group, en_heading, zh_heading in (('phd', 'PhD students', '博士生'), ('masters', "Master’s students", '硕士生')):
@@ -112,8 +115,8 @@ for locale in ('en', 'zh'):
             primary = member['name_en'] if locale == 'en' else member['name_zh']
             secondary = member['name_zh'] if locale == 'en' else member['name_en']
             year_label = 'Entry year' if locale == 'en' else '入学年份'
-            alt = ''
             photo = member['photo']
+            alt = '' if photo == 'portrait-template.svg' else primary + (' portrait' if locale == 'en' else '的照片')
             if not re.fullmatch(r'[a-zA-Z0-9_.-]+', photo) or not (ROOT / 'static/images' / photo).is_file():
                 raise ValueError('Missing or invalid team photo: ' + photo)
             cards += f'<article class="member"><figure><img src="./images/{e(photo)}" width="360" height="360" alt="{e(alt)}"></figure><h3>{e(primary)}</h3><p class="member-secondary">{e(secondary)}</p><p class="entry-year">{year_label} · {e(member["entry_year"])}</p></article>'
@@ -172,7 +175,7 @@ for locale in ('en', 'zh'):
         return '<ul class="news-timeline">' + rows + '</ul>'
     news = news_html(news_items)
     header = f'''<header class="header"><div class="header-inner">
-    <a class="brand" href="./index.html" aria-label="SITS Lab 首页"><span class="brand-mark" aria-hidden="true">S</span><span>{e(data['name'])}<small>空间智能与可信感知</small></span></a>
+    <a class="brand" href="./index.html" aria-label="SITS Lab 首页"><img class="brand-logo" src="./images/sitslab.png" width="711" height="593" alt=""><span>{e(data['name'])}<small>空间智能与可信感知</small></span></a>
     <nav aria-label="主导航"><a href="./index.html">首页</a><a href="./research.html">研究方向</a><a href="./team.html">团队</a><a href="./publications.html">学术成果</a><a href="./grants.html">科研课题</a><a href="./contact.html">联系</a></nav></div></header>'''
     footer = f'''<footer class="container footer"><div><strong>{e(data['name'])}</strong><br>{e(data['full_name'])}</div><span>{e(data['name_zh'])}<br>湖南大学 · Hunan University</span><a href="./index.html">返回首页 ↑</a></footer>'''
     values = {k: e(v) for k, v in data.items() if isinstance(v, str)}
