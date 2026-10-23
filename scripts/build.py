@@ -125,13 +125,14 @@ for locale in ('en', 'zh'):
     alumni_members = json.loads((ROOT / 'content/alumni.json').read_text(encoding='utf-8'))
     alumni_heading = 'Alumni' if locale == 'en' else '已毕业成员'
     columns = ('Name', 'Degree', 'Graduation year', 'Destination after graduation') if locale == 'en' else ('姓名', '学位', '毕业年份', '毕业去向')
+    alumni_degrees = {'phd': ('PhD', '博士'), 'masters': ("Master’s", '硕士'), 'bachelors': ("Bachelor’s", '本科')}
     alumni_rows = ''
     for member in sorted(alumni_members, key=lambda m: str(m.get('graduation_year', '')), reverse=True):
-        if not member.get('name_zh') or member.get('group') not in ('phd', 'masters'):
+        if not member.get('name_zh') or member.get('group') not in alumni_degrees:
             raise ValueError('Alumni must have a name and degree group')
         primary = member.get('name_en') or member['name_zh'] if locale == 'en' else member['name_zh']
         secondary = member['name_zh'] if locale == 'en' and member.get('name_en') else member.get('name_en', '') if locale == 'zh' else ''
-        degree = ('PhD' if member['group'] == 'phd' else "Master’s") if locale == 'en' else ('博士' if member['group'] == 'phd' else '硕士')
+        degree = alumni_degrees[member['group']][0 if locale == 'en' else 1]
         pending = 'To be updated' if locale == 'en' else '待补充'
         year = member.get('graduation_year') or pending
         destination = member.get('destination_en' if locale == 'en' else 'destination_zh') or member.get('destination_zh') or pending
