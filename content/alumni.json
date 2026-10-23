@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "group": "masters",
+    "name_zh": "魏儒艺",
+    "name_en": "Ruyi Wei",
+    "graduation_year": 2026,
+    "destination_zh": "淘天",
+    "destination_en": "Taotian"
+  },
+  {
+    "group": "masters",
+    "name_zh": "卢航",
+    "name_en": "Hang Lu",
+    "graduation_year": 2025,
+    "destination_zh": "科大讯飞",
+    "destination_en": "iFLYTEK"
+  },
+  {
+    "group": "masters",
+    "name_zh": "董成鹏",
+    "name_en": "Chengpeng Dong",
+    "graduation_year": 2025,
+    "destination_zh": "京东",
+    "destination_en": "JD.com"
+  },
+  {
+    "group": "masters",
+    "name_zh": "查沈敏",
+    "name_en": "Shenmin Zha",
+    "graduation_year": 2024,
+    "destination_zh": "阿里",
+    "destination_en": "Alibaba"
+  },
+  {
+    "group": "masters",
+    "name_zh": "钱超",
+    "name_en": "Chao Qian",
+    "graduation_year": 2024,
+    "destination_zh": "美团",
+    "destination_en": "Meituan"
+  },
+  {
+    "group": "masters",
+    "name_zh": "沈隆",
+    "name_en": "Long Shen",
+    "graduation_year": 2023,
+    "destination_zh": "华为",
+    "destination_en": "Huawei"
+  },
+  {
+    "group": "masters",
+    "name_zh": "陈格菊",
+    "name_en": "Geju Chen",
+    "graduation_year": 2022,
+    "destination_zh": "湖北某专利局",
+    "destination_en": "A patent office in Hubei"
+  }
+]
