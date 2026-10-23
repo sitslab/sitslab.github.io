@@ -122,6 +122,17 @@ for locale in ('en', 'zh'):
                 raise ValueError('Missing or invalid team photo: ' + photo)
             cards += f'<article class="member"><figure><img src="./images/{e(photo)}" width="360" height="480" alt="{e(alt)}"></figure><h3>{e(primary)}</h3><p class="member-secondary">{e(secondary)}</p><p class="entry-year">{year_label} · {e(member["entry_year"])}</p></article>'
         students += f'<section class="section student-group"><div class="section-heading"><h2>{heading}</h2></div><div class="member-grid">{cards}</div></section>'
+    undergraduate_members = [m for m in team_members if m['group'] == 'bachelors']
+    if undergraduate_members:
+        heading = 'Undergraduate students' if locale == 'en' else '本科生'
+        columns = ('Name', 'Entry year', 'Expected graduation', 'Destination after graduation') if locale == 'en' else ('姓名', '入学年份', '预计毕业年份', '毕业去向')
+        rows = ''
+        for member in undergraduate_members:
+            primary = member['name_en'] if locale == 'en' else member['name_zh']
+            secondary = member['name_zh'] if locale == 'en' else member['name_en']
+            destination = member['destination_en' if locale == 'en' else 'destination_zh']
+            rows += f'<tr><th scope="row">{e(primary)}<span class="alumni-secondary">{e(secondary)}</span></th><td>{e(member["entry_year"])}</td><td>{e(member["expected_graduation_year"])}</td><td>{e(destination)}</td></tr>'
+        students += f'<section id="undergraduates" class="section student-group"><div class="section-heading"><h2>{heading}</h2></div><table class="alumni-table"><thead><tr>{"".join(f"<th scope=column>{e(c)}</th>" for c in columns)}</tr></thead><tbody>{rows}</tbody></table></section>'
     alumni_members = json.loads((ROOT / 'content/alumni.json').read_text(encoding='utf-8'))
     alumni_heading = 'Alumni' if locale == 'en' else '已毕业成员'
     columns = ('Name', 'Degree', 'Graduation year', 'Destination after graduation') if locale == 'en' else ('姓名', '学位', '毕业年份', '毕业去向')

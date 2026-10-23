@@ -75,5 +75,23 @@
     "name_en": "Yuqing Peng",
     "entry_year": 2026,
     "photo": "pengyuqing.webp"
+  },
+  {
+    "group": "bachelors",
+    "name_zh": "宋文月",
+    "name_en": "Wenyue Song",
+    "destination_zh": "哈尔滨工业大学",
+    "destination_en": "Harbin Institute of Technology",
+    "entry_year": 2023,
+    "expected_graduation_year": 2027
+  },
+  {
+    "group": "bachelors",
+    "name_zh": "张艺漫",
+    "name_en": "Yiman Zhang",
+    "destination_zh": "中国科学技术大学",
+    "destination_en": "University of Science and Technology of China",
+    "entry_year": 2023,
+    "expected_graduation_year": 2027
   }
 ]
