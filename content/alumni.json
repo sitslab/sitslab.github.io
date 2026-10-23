@@ -48,22 +48,6 @@
     "destination_en": "Huawei"
   },
   {
-    "group": "bachelors",
-    "name_zh": "宋文月",
-    "name_en": "Wenyue Song",
-    "graduation_year": 2023,
-    "destination_zh": "哈尔滨工业大学",
-    "destination_en": "Harbin Institute of Technology"
-  },
-  {
-    "group": "bachelors",
-    "name_zh": "张艺漫",
-    "name_en": "Yiman Zhang",
-    "graduation_year": 2023,
-    "destination_zh": "中国科学技术大学",
-    "destination_en": "University of Science and Technology of China"
-  },
-  {
     "group": "masters",
     "name_zh": "陈格菊",
     "name_en": "Geju Chen",
