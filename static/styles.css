@@ -27,3 +27,48 @@
 
 /* One shared counter counts pageviews across both languages and all pages. */
 .footer{flex-wrap:wrap}.visitor-statistics{flex:0 0 100%;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:24px;width:100%;border-top:1px solid #c6cbd2;padding-top:20px}.visitor-statistics h2{font-size:18px;margin-bottom:5px}.visitor-statistics-copy>p{font-size:13px;color:#333}.visitor-statistics-copy .visitor-statistics-note{font-size:11px;line-height:1.8;margin-top:8px;color:#555}.visitor-counter-link{display:block;justify-self:end;max-width:100%;color:#075ab5;font-size:12px;font-weight:600}.visitor-counter-link img{display:block;width:198px;max-width:100%;height:auto;min-height:64px;margin-bottom:7px}.visitor-counter-link>span{display:block}@media(max-width:650px){.visitor-statistics{flex-basis:auto;grid-template-columns:1fr;gap:16px;margin-top:8px}.visitor-counter-link{justify-self:start}}
+
+.project-overview {
+  max-width: 760px;
+}
+.project-overview h2 {
+  margin-bottom: 14px;
+}
+.project-overview p + p {
+  margin-top: 10px;
+}
+.project-demo-title {
+  margin: 28px 0 14px;
+}
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+.project-gallery figure {
+  border: 1px solid var(--line);
+}
+.project-gallery a,
+.project-gallery img {
+  display: block;
+}
+.project-gallery img {
+  width: 100%;
+  height: auto;
+}
+.project-gallery figcaption {
+  margin: 0;
+  padding: 12px 16px 15px;
+  font-size: 14px;
+}
+.project-gallery figcaption strong {
+  display: block;
+  margin-bottom: 3px;
+  color: var(--ink);
+}
+@media (max-width: 650px) {
+  .project-gallery {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+}
