@@ -34,6 +34,7 @@ EN_UI = {'SITS Lab 首页': 'SITS Lab home',
  '>首页</a>': '>Home</a>',
  '>动态</a>': '>News</a>',
  '>研究方向</a>': '>Research</a>',
+ '>项目展示</a>': '>Projects</a>',
  '>代表研究</a>': '>Highlights</a>',
  '>团队</a>': '>Team</a>',
  '>学术成果</a>': '>Publications</a>',
@@ -69,7 +70,7 @@ EN_UI = {'SITS Lab 首页': 'SITS Lab home',
                                                          'in the publication.',
  '导师列表未列年份；按 Crossref 正式卷期 57(15) 补为 2012。': 'Published in Chinese Science Bulletin 57(15), 2012.'}
 
-PAGES = ('index', 'research', 'team', 'publications', 'grants', 'contact')
+PAGES = ('index', 'research', 'projects', 'team', 'publications', 'grants', 'contact')
 
 for locale in ('en', 'zh'):
     content_name = 'site.en.json' if locale == 'en' else 'site.json'
@@ -192,7 +193,7 @@ for locale in ('en', 'zh'):
     news = news_html(news_items)
     header = f'''<header class="header"><div class="header-inner">
     <a class="brand" href="./index.html" aria-label="SITS Lab 首页"><img class="brand-logo" src="./images/sitslab.png" width="711" height="593" alt=""><span>{e(data['name'])}<small>空间智能与可信感知</small></span></a>
-    <nav aria-label="主导航"><a href="./index.html">首页</a><a href="./research.html">研究方向</a><a href="./team.html">团队</a><a href="./publications.html">学术成果</a><a href="./grants.html">科研课题</a><a href="./contact.html">联系</a></nav></div></header>'''
+    <nav aria-label="主导航"><a href="./index.html">首页</a><a href="./research.html">研究方向</a><a href="./projects.html">项目展示</a><a href="./team.html">团队</a><a href="./publications.html">学术成果</a><a href="./grants.html">科研课题</a><a href="./contact.html">联系</a></nav></div></header>'''
     stats_title = 'Website visits' if locale == 'en' else '网站访问统计'
     stats_description = 'Pageviews and visitor countries / regions' if locale == 'en' else '浏览次数 · 访客国家／地区'
     stats_since = ('Counting since ' if locale == 'en' else '自 ') + e(analytics['started_on']) + ('' if locale == 'en' else ' 起统计')

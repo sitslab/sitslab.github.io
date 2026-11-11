@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SITS Lab 项目展示与应用演示">
+  <meta name="theme-color" content="#171717">
+  <title>项目展示 · SITS Lab</title>
+  <link rel="icon" type="image/png" href="./images/sitslab.png">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳转至正文</a>
+  {{header}}
+  <main id="main" class="container inner-page">
+    <div class="page-title">
+      <h1>项目展示</h1>
+    </div>
+    <article id="owl" class="section project-showcase">
+      <div class="project-overview">
+        <p class="module-label">HarmonyOS · V1.0</p>
+        <h2>猫头鹰：隐藏摄像头检测</h2>
+        <p>猫头鹰是一款辅助排查室内隐藏摄像头的 HarmonyOS 应用。它扫描周围的无线信号，在发现疑似信号时给出预警，并通过光环颜色和提示音帮助用户缩小排查范围。</p>
+        <p>检测在设备本地完成，无需联网。应用支持部分华为 HarmonyOS 设备。检测结果可能受周围电子设备和环境干扰，可疑位置仍需人工确认。</p>
+      </div>
+      <h3 class="project-demo-title">界面演示</h3>
+      <div class="project-gallery">
+        <figure>
+          <a href="./images/projects/owl/scan.jpg"><img src="./images/projects/owl/scan.jpg" width="1244" height="574" alt="蓝色雷达界面正在搜索可疑信号"></a>
+          <figcaption><strong>信号扫描</strong>雷达界面持续搜索周围信号。</figcaption>
+        </figure>
+        <figure>
+          <a href="./images/projects/owl/warning.jpg"><img src="./images/projects/owl/warning.jpg" width="1244" height="574" alt="黄色雷达提示检测到可疑电子信号，正在分析"></a>
+          <figcaption><strong>可疑信号预警</strong>检测到可疑电子信号后，界面切换为黄色。</figcaption>
+        </figure>
+        <figure>
+          <a href="./images/projects/owl/result.jpg"><img src="./images/projects/owl/result.jpg" width="1244" height="574" alt="红色结果页提示当前区域疑似存在隐藏摄像头，并提供辅助寻找入口"></a>
+          <figcaption><strong>检测结果</strong>结果页提示当前区域存在可疑信号，可进入辅助寻找。</figcaption>
+        </figure>
+        <figure>
+          <a href="./images/projects/owl/locate.jpg"><img src="./images/projects/owl/locate.jpg" width="1244" height="574" alt="辅助寻找界面以红色光环提示可疑信号在附近"></a>
+          <figcaption><strong>辅助定位</strong>光环颜色和提示音随信号远近变化，协助缩小排查范围。</figcaption>
+        </figure>
+      </div>
+    </article>
+  </main>
+  {{footer}}
+</body>
+</html>
