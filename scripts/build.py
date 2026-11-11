@@ -70,7 +70,7 @@ EN_UI = {'SITS Lab 首页': 'SITS Lab home',
                                                          'in the publication.',
  '导师列表未列年份；按 Crossref 正式卷期 57(15) 补为 2012。': 'Published in Chinese Science Bulletin 57(15), 2012.'}
 
-PAGES = ('index', 'research', 'projects', 'team', 'publications', 'grants', 'contact')
+PAGES = ('index', 'research', 'projects', 'projects-owl', 'team', 'publications', 'grants', 'contact')
 
 for locale in ('en', 'zh'):
     content_name = 'site.en.json' if locale == 'en' else 'site.json'
