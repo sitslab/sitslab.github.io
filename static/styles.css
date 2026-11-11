@@ -31,9 +31,6 @@
 .project-overview {
   max-width: 760px;
 }
-.project-overview h2 {
-  margin-bottom: 14px;
-}
 .project-overview p + p {
   margin-top: 10px;
 }
@@ -71,4 +68,47 @@
     grid-template-columns: 1fr;
     gap: 14px;
   }
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+}
+.project-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 1px solid var(--line);
+}
+.project-card:hover {
+  border-color: var(--accent);
+  text-decoration: none;
+}
+.project-card:hover .text-link {
+  text-decoration: underline;
+}
+.project-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.project-card-copy {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 18px;
+}
+.project-card-copy h2 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.project-card-copy p:not(.module-label) {
+  font-size: 14px;
+  margin-bottom: 14px;
+}
+.project-card-copy > .text-link {
+  margin-top: auto;
 }
