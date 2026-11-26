@@ -59,6 +59,7 @@
     "group": "phd",
     "name_zh": "张迄博",
     "name_en": "Qibo Zhang",
+    "graduation_year": 2024,
     "destination_zh": "长沙理工大学讲师",
     "destination_en": "Lecturer, Changsha University of Science and Technology"
   },
@@ -94,6 +95,7 @@
     "group": "bachelors",
     "name_zh": "苏维高",
     "name_en": "Weigao Su",
+    "graduation_year": 2022,
     "destination_zh": "美国普渡大学攻读博士",
     "destination_en": "Doctoral studies, Purdue University, USA"
   },
@@ -115,6 +117,7 @@
     "group": "phd",
     "name_zh": "沈湘宇",
     "name_en": "Xiangyu Shen",
+    "graduation_year": 2023,
     "destination_zh": "中南林业科技大学助理教授",
     "destination_en": "Assistant Professor, Central South University of Forestry and Technology"
   }
