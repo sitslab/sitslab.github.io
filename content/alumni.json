@@ -54,5 +54,68 @@
     "graduation_year": 2022,
     "destination_zh": "湖北某专利局",
     "destination_en": "A patent office in Hubei"
+  },
+  {
+    "group": "phd",
+    "name_zh": "张迄博",
+    "name_en": "Qibo Zhang",
+    "destination_zh": "长沙理工大学讲师",
+    "destination_en": "Lecturer, Changsha University of Science and Technology"
+  },
+  {
+    "group": "phd",
+    "name_zh": "曹航程",
+    "name_en": "Hangcheng Cao",
+    "destination_zh": "香港城市大学博士后（2025年湖南省优秀博士论文）",
+    "destination_en": "Postdoctoral researcher, City University of Hong Kong (2025 Hunan Province Outstanding Doctoral Dissertation Award)"
+  },
+  {
+    "group": "phd",
+    "name_zh": "胡靖阳",
+    "name_en": "Jingyang Hu",
+    "destination_zh": "中国科学技术大学博士后（2025年 ACM-Changsha 优秀博士论文、2025年入选博新计划）",
+    "destination_en": "Postdoctoral researcher, University of Science and Technology of China (2025 ACM Changsha Outstanding Doctoral Dissertation Award, selected for the 2025 Postdoctoral Innovative Talents Support Program)"
+  },
+  {
+    "group": "masters",
+    "name_zh": "张泰源",
+    "name_en": "Taiyuan Zhang",
+    "destination_zh": "美国佐治亚理工学院攻读硕士",
+    "destination_en": "Master’s studies, Georgia Institute of Technology, USA"
+  },
+  {
+    "group": "masters",
+    "name_zh": "王瑞泽",
+    "name_en": "Ruize Wang",
+    "destination_zh": "抖音（北京）",
+    "destination_en": "Douyin, Beijing"
+  },
+  {
+    "group": "bachelors",
+    "name_zh": "苏维高",
+    "name_en": "Weigao Su",
+    "destination_zh": "美国普渡大学攻读博士",
+    "destination_en": "Doctoral studies, Purdue University, USA"
+  },
+  {
+    "group": "masters",
+    "name_zh": "陈熠玮",
+    "name_en": "Yiwei Chen",
+    "destination_zh": "小红书",
+    "destination_en": "Xiaohongshu"
+  },
+  {
+    "group": "phd",
+    "name_zh": "况玲",
+    "name_en": "Ling Kuang",
+    "destination_zh": "湖南中医药大学助理教授",
+    "destination_en": "Assistant Professor, Hunan University of Chinese Medicine"
+  },
+  {
+    "group": "phd",
+    "name_zh": "沈湘宇",
+    "name_en": "Xiangyu Shen",
+    "destination_zh": "中南林业科技大学助理教授",
+    "destination_en": "Assistant Professor, Central South University of Forestry and Technology"
   }
 ]
